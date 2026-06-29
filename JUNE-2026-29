@@ -1,0 +1,663 @@
+|Posición|Cambio|Título|Compositor|Cantante|Vistas Actuales|Vistas Ganadas|Me Gusta|Me Gusta Ganados|Comentarios|Comentarios Ganados|
+|---|---|---|---|---|---|---|---|---|---|---|
+|1|↑629|YARARARA|ABM|Kasane Teto|22\.365\.199|19\.859\.221|513\.462|394\.666|15\.153|11\.002|
+|2|↑67|Looping the Rooms|rusino|Hatsune Miku|52\.610\.097|8\.070\.858|890\.724|83\.396|16\.311|1\.907|
+|3|↑654|Please approve me, Genie\!|TRAP CHICK|Kasane Teto, Otomachi Una|7\.402\.279|7\.402\.279|164\.785|164\.785|8\.664|8\.664|
+|4|↑176|Execution Clap|TRAP CHICK|Kasane Teto|29\.176\.209|5\.849\.667|451\.402|54\.331|20\.483|1\.152|
+|5|↑181|Brain Rot|Tokyo Manaka|Kasane Teto|27\.374\.313|5\.522\.686|583\.369|62\.857|12\.617|852|
+|6|↓4|Mesmerizer|Satsuki|Hatsune Miku, Kasane Teto|207\.197\.548|5\.077\.174|2\.127\.379|32\.011|128\.011|1\.908|
+|7|↑34|Retry Now|NAKISO|Hatsune Miku|67\.842\.739|4\.346\.876|888\.201|28\.698|25\.650|539|
+|8|↓7|Young Girl A|siinamota|Kagamine Rin|207\.176\.758|4\.214\.555|2\.842\.185|45\.845|219\.824|751|
+|9|↑4|BUTCHER VANITY|FLAVOR FOLEY|Yi Xi|106\.309\.341|4\.188\.288|1\.069\.152|32\.744|73\.609|1\.319|
+|10|↑54|PPPP|TAK|Hatsune Miku, Kasane Teto|52\.986\.982|3\.866\.455|671\.492|24\.918|26\.732|565|
+|11|↑301|Signaling|ABM|Hatsune Miku, Kasane Teto|18\.538\.466|3\.756\.607|278\.736|38\.430|6\.461|651|
+|12|↑108|Baumkuchen End Credits|Amala|Kasane Teto, Hatsune Miku, Kagamine Rin|34\.066\.510|3\.626\.011|458\.512|20\.867|22\.717|747|
+|13|↑642|We have to get out of here\!|Sato Chinamini|Hatsune Miku, Ui|3\.568\.214|3\.568\.214|131\.637|131\.637|4\.522|4\.522|
+|14|↓7|Monitoring|DECO\*27|Hatsune Miku|122\.634\.701|3\.407\.950|1\.263\.661|21\.106|21\.953|222|
+|15|↓10|Tetoris|Hiiragi Magnetite|Kasane Teto|124\.723\.683|3\.123\.331|971\.693|13\.175|24\.331|21|
+|16|↑477|Im talking to you\!\!\!|Piinata|Kasane Teto|12\.536\.058|2\.890\.373|277\.358|35\.480|14\.067|831|
+|17|↓2|Konton Boogie|jon-YAKITORY|Hatsune Miku|100\.564\.204|2\.815\.676|899\.846|22\.434|26\.072|1\.664|
+|18|↑642|SOSORRY\!|ePieon|Hatsune Miku|2\.702\.151|2\.702\.151|181\.340|181\.340|8\.896|8\.896|
+|19|↑242|Liar Macaron|Gluttonous P|Kasane Teto|19\.540\.900|2\.594\.098|289\.809|17\.269|20\.090|942|
+|20|↑612|Adachi Rei|Sato Chinamini|Adachi Rei, Kasane Teto|4\.456\.609|2\.365\.061|98\.083|38\.339|3\.339|1\.065|
+|21|↓11|Kyu-kurarin|iyowa|KAFU|113\.170\.678|2\.266\.129|1\.090\.013|15\.795|38\.852|323|
+|22|↑568|LET\.ME\.OUT|HALLO CEL|Hatsune Miku, Kasane Teto|8\.302\.782|2\.181\.569|172\.818|21\.742|8\.549|890|
+|23|↑631|Machia Princess|yoshimoto ojisan|Ui, Tamaki|2\.169\.065|2\.169\.065|60\.314|60\.314|2\.043|2\.043|
+|24|↑49|Static|FLAVOR FOLEY|Hatsune Miku|44\.363\.070|2\.122\.896|673\.775|16\.540|29\.024|563|
+|25|↑32|Daidaidaidaidaikirai|Amala|Hatsune Miku, Kasane Teto|56\.675\.915|2\.113\.436|601\.925|12\.687|12\.055|158|
+|26|↑596|Rejected Diva|PinocchioP|Hatsune Miku|5\.221\.735|2\.081\.261|169\.757|23\.309|6\.061|613|
+|27|↓15|Override|Yoshida Yasei|Kasane Teto|105\.138\.294|2\.077\.906|752\.549|9\.107|22\.283|-196|
+|28|↑417|HoYo HoYo ni Shite Ageru|inosoo|Hatsune Miku|12\.586\.148|1\.872\.498|420\.354|21\.461|6\.004|214|
+|29|↑3|Mimukauwa Nice Try|Nununu|Hatsune Miku|73\.283\.526|1\.867\.678|1\.351\.399|14\.925|48\.204|205|
+|30|↓22|Rabbit Hole|DECO\*27|Hatsune Miku|120\.440\.665|1\.779\.025|1\.254\.127|10\.586|29\.096|56|
+|31|↓17|Lagtrain|inabakumori|Kaai Yuki|99\.752\.643|1\.756\.523|1\.264\.443|15\.186|23\.286|595|
+|32|↑514|SPLIT DANCE|Eipu|Hatsune Miku, Kasane Teto|10\.102\.185|1\.664\.810|192\.452|15\.187|4\.507|255|
+|33|↑106|Teto the 31st|HALLO CEL|Kasane Teto, Ui|29\.149\.605|1\.632\.981|434\.985|9\.629|14\.237|159|
+|34|↑80|BIRDBRAIN|Jamie Paige|Kasane Teto|32\.710\.656|1\.632\.107|623\.328|16\.369|21\.906|591|
+|35|↑13|Medicine|Haraguchi Sasuke|Kasane Teto|61\.337\.205|1\.603\.536|592\.088|10\.256|13\.046|160|
+|36|↑16|CandyCookieChocolate|HALLO CEL|Hatsune Miku, Kasane Teto|58\.673\.994|1\.510\.197|618\.438|7\.960|20\.999|124|
+|37|↑22|Aishite ita no ni|MARETU|Hatsune Miku|53\.486\.415|1\.375\.998|654\.518|12\.546|33\.585|306|
+|38|↓20|Lost Umbrella|inabakumori|Kaai Yuki|94\.688\.505|1\.374\.629|1\.623\.913|12\.034|31\.550|72|
+|39|↑51|Melt CPK\! Remix|ryo|Hatsune Miku|36\.492\.470|1\.351\.074|149\.313|3\.480|6\.630|1\.878|
+|40|↑136|Don't Believe in T|PinocchioP|Hatsune Miku, Kasane Teto|25\.245\.293|1\.335\.841|300\.278|7\.029|10\.029|107|
+|41|↑111|Machine Love|Jamie Paige|Kasane Teto|27\.232\.617|1\.333\.898|490\.371|13\.491|11\.161|333|
+|42|↑519|ANOTHER CUP|bunnycat|Kasane Teto|9\.435\.388|1\.315\.572|190\.847|14\.042|6\.131|386|
+|43|↑107|Nyan Cat\!|MomomomoP|Momone Momo|27\.372\.213|1\.311\.980|547\.828|17\.017|0|0|
+|44|↑22|Telepathy|DECO\*27|Hatsune Miku|50\.065\.110|1\.298\.367|563\.548|6\.405|11\.669|78|
+|45|↑26|Confessions of a Rotten Girl|SAWTOWNE|Hatsune Miku|44\.847\.085|1\.264\.558|875\.937|12\.651|35\.174|373|
+|46|↑481|Melt ice cream 🍨🍦💦|TRAP CHICK|Hatsune Miku, Kasane Teto|9\.985\.203|1\.091\.937|168\.869|8\.891|7\.992|244|
+|47|↓9|Hito Mania|Haraguchi Sasuke|Kasane Teto|66\.791\.741|1\.091\.694|726\.279|7\.668|18\.350|88|
+|48|↓45|Goodbye Sengen|Chinozo|Flower|156\.562\.938|1\.084\.278|1\.400\.185|6\.946|86\.279|212|
+|49|↑599|numb numb|TAK|Hatsune Miku, Kasane Teto|1\.937\.576|1\.072\.501|82\.272|26\.680|3\.192|752|
+|50|↑331|Doomer|Tokio Mannaka|Kasane Teto|13\.569\.315|1\.071\.625|291\.022|12\.241|8\.925|206|
+|51|↑24|Ojisan Style Text|yoshimoto ojisan|Ui|42\.364\.149|1\.068\.985|476\.045|6\.238|14\.442|186|
+|52|↑46|Monitoring \(Best Friend Remix\)|DECO\*27|Hatsune Miku|33\.968\.737|1\.034\.270|768\.067|8\.959|19\.251|55|
+|53|↑77|Heat abnormal|iyowa|Adachi Rei|29\.426\.240|998\.939|264\.944|7\.512|8\.245|266|
+|54|↑304|weathergirl|FLAVOR FOLEY|Eleanor Forte|14\.085\.633|998\.854|207\.903|10\.375|11\.544|1\.095|
+|55|↑21|M@GICAL☆CURE\! LOVE ♥ SHOT\!|SAWTOWNE|Hatsune Miku|41\.068\.729|984\.984|762\.476|9\.491|20\.704|201|
+|56|↓9|shunran|john|Hatsune Miku|60\.989\.886|960\.477|536\.215|6\.118|12\.455|161|
+|57|↓53|ECHO|Crusher|GUMI|127\.337\.200|944\.466|1\.504\.652|8\.806|55\.289|85|
+|58|↑305|I want to be a saint|Shaito|Kasane Teto|13\.806\.440|942\.318|149\.660|6\.259|2\.509|68|
+|59|↑231|Spoken For|FLAVOR FOLEY|Kasane Teto|16\.485\.838|914\.357|353\.086|9\.500|15\.372|176|
+|60|↑42|Binomi|MARETU|Hatsune Miku|33\.159\.707|899\.442|498\.163|9\.364|25\.847|208|
+|61|↑538|Dadadadadaru|Amala|Hatsune Miku, Kasane Teto|6\.204\.325|869\.350|144\.546|6\.479|4\.345|33|
+|62|↓56|Aishite Aishite Aishite|Kikuo|Hatsune Miku|120\.480\.768|858\.514|2\.343\.729|11\.521|59\.659|251|
+|63|↑97|AKAGE|SmilyBruh|Kasane Teto|26\.304\.615|818\.507|390\.556|6\.133|6\.761|103|
+|64|↓43|Brain Fluid Explosion Girl|rerulili|Hatsune Miku, GUMI|87\.792\.250|813\.016|523\.353|3\.510|24\.334|54|
+|65|↑112|Zako|Hiiragi Magnetite|Hatsune Miku|24\.690\.076|781\.953|482\.799|6\.724|20\.446|160|
+|66|↓42|Senbonzakura|Kurousa|Hatsune Miku|82\.851\.044|772\.433|620\.922|6\.259|29\.326|260|
+|67|↑143|Cherry Pop|DECO\*27|Hatsune Miku|20\.776\.079|748\.863|311\.359|4\.076|7\.382|17|
+|68|↓43|Lost One's Weeping|Neru|Kagamine Rin|79\.436\.350|733\.891|833\.404|5\.436|22\.332|54|
+|69|↑584|Cocho Cocho|Utsu-P|Hatsune Miku|868\.026|723\.428|31\.043|11\.248|1\.281|373|
+|70|↓28|At God's Mercy|rerulili|Hatsune Miku, GUMI, Kagamine Rin|63\.758\.861|719\.968|598\.985|5\.833|22\.638|73|
+|71|↑275|Odochina|Atena|Hatsune Miku, Kasane Teto|14\.288\.018|719\.166|203\.964|5\.338|6\.499|64|
+|72|↑586|Kankei Girl|Masarada|Kasane Teto|697\.386|697\.386|28\.847|28\.847|1\.811|1\.811|
+|73|↑37|Noda|Daibaku Hashin|Hatsune Miku, Zundamon, Kasane Teto|32\.239\.429|682\.953|347\.270|4\.159|13\.412|153|
+|74|↑530|Q&A|Piinata|Kasane Teto|5\.702\.920|674\.982|141\.388|8\.069|4\.321|136|
+|75|↑56|Liar Dancer|Masarada|Kasane Teto|28\.855\.203|673\.750|339\.129|5\.441|7\.143|108|
+|76|↑571|Under My Heel|hya|Hatsune Miku|1\.566\.937|663\.545|48\.310|10\.138|1\.206|232|
+|77|↑27|Best Friends|OR3O|Kevin|32\.816\.017|658\.891|368\.197|7\.806|63\.950|580|
+|78|↑297|Leviteto|LOL|Kasane Teto|13\.253\.372|658\.384|204\.346|5\.958|6\.053|131|
+|79|↑530|Ego Renegade Boy|FLAVOR FOLEY|Kagamine Len, Kagamine Rin|5\.041\.488|658\.033|153\.744|7\.858|11\.567|399|
+|80|↓29|Reincarnation Apple|PinocchioP|Hatsune Miku|58\.694\.701|649\.881|576\.944|4\.563|9\.365|8|
+|81|↓55|Miku|Anamanaguchi|Hatsune Miku|78\.655\.043|649\.297|1\.746\.310|8\.820|61\.790|145|
+|82|↓8|Rollin Girl|wowaka|Hatsune Miku|42\.473\.122|646\.191|421\.892|5\.443|18\.359|89|
+|83|↓55|phony|Tsumiki|KAFU|76\.409\.749|642\.997|707\.117|3\.769|13\.975|71|
+|84|↑560|Nissin Yakisoba U\.F\.O\.|amigroove|Hatsune Miku|1\.676\.129|641\.895|18\.061|1\.444|865|40|
+|85|↑151|Gocha Gocha Urusee\!|OwataP|Hatsune Miku|19\.005\.876|639\.671|354\.497|8\.332|4\.201|79|
+|86|↑15|Mayonnaise fried chicken|Nununu|Zundamon, Hatsune Miku, KAFU, and more|33\.172\.829|639\.356|624\.263|5\.624|16\.238|116|
+|87|↑10|SIU|MARETU|Hatsune Miku|33\.651\.687|639\.331|496\.122|5\.889|19\.786|20|
+|88|↑537|Looping the Rooms \(Neutroa Remix\)|Neutroa|Hatsune Miku|3\.636\.518|630\.066|83\.943|7\.897|1\.269|88|
+|89|↓73|The Vampire|DECO\*27|Hatsune Miku|97\.641\.564|624\.209|835\.822|3\.229|17\.264|93|
+|90|↑303|Affection Addiction|KAT|POPY|12\.673\.551|622\.556|244\.546|6\.896|6\.844|193|
+|91|↓72|God-ish|PinocchioP|Hatsune Miku|91\.730\.911|620\.347|873\.241|4\.751|16\.494|63|
+|92|↑503|New\! Carol the Ruler|Fujiwara Hagane|Yuka Satoishi|6\.337\.939|614\.946|95\.370|5\.245|3\.739|113|
+|93|↓84|Kyoufuu All Back|Yukopi|Kaai Yuki|116\.196\.347|611\.171|1\.412\.189|5\.103|28\.457|61|
+|94|↓83|KING|Kanaria|GUMI|104\.734\.720|604\.655|1\.062\.195|4\.003|28\.018|1|
+|95|↓66|Unknown Mother-Goose|wowaka|Hatsune Miku|75\.659\.453|598\.442|549\.562|4\.468|18\.334|73|
+|96|↓4|Dance of the Corpses|Kikuo|Hatsune Miku|34\.369\.965|583\.768|605\.185|7\.216|12\.212|159|
+|97|↑32|IMAWANOKIWA|iyowa|Hatsune Miku|29\.197\.015|582\.172|288\.349|3\.507|0|0|
+|98|↓53|Lower One's Eyes|Nuyuri|Flower|62\.077\.439|577\.972|627\.022|4\.605|9\.918|43|
+|99|↑544|Character T|Atena|Kasane Teto|1\.707\.025|574\.522|54\.770|6\.375|2\.958|168|
+|100|↓78|HIBANA|DECO\*27|Hatsune Miku|83\.990\.534|570\.893|617\.170|3\.577|21\.672|91|
+|101|↑35|Hanataba|MIMI|KAFU|28\.128\.436|567\.793|278\.848|4\.781|5\.923|118|
+|102|↑14|Living Millennium|iyowa|Hatsune Miku|31\.280\.898|567\.680|247\.290|2\.947|5\.083|17|
+|103|↑140|D/N/A \(SEKAI ver\.\)|Azari|Kagamine Rin|18\.480\.594|541\.530|172\.639|2\.636|2\.398|22|
+|104|↑118|Meltdown|iroha|Kagamine Rin|19\.824\.820|540\.670|247\.330|6\.185|5\.288|94|
+|105|↓42|Copycat|CircusP|GUMI|50\.136\.250|538\.125|701\.827|5\.303|25\.912|205|
+|106|↓57|Yoidore Shirazu|Kanaria|GUMI|59\.950\.348|534\.440|574\.193|2\.256|13\.597|16|
+|107|↑554|Music|MIMI|KAFU|529\.977|529\.977|26\.702|26\.702|874|874|
+|108|↑25|●utlaws|Masarada|Kasane Teto|28\.601\.363|515\.911|372\.523|3\.648|7\.807|52|
+|109|↓48|Shoujo Rei|MikitoP|Hatsune Miku|51\.294\.072|515\.269|551\.425|4\.832|17\.279|172|
+|110|↓87|MATORYOSHKA|HACHI|Hatsune Miku, GUMI|83\.210\.202|513\.342|745\.949|4\.467|22\.288|78|
+|111|↓58|Bitter Choco Decoration|syudou|Hatsune Miku|56\.981\.669|508\.032|763\.623|3\.912|14\.465|27|
+|112|↓81|I Want To Be Your Heart|YurryCanon|GUMI|72\.380\.929|505\.482|595\.249|3\.358|22\.017|189|
+|113|↓74|Telecaster B-Boy|Surii|Kagamine Len|64\.760\.730|500\.713|522\.468|2\.689|10\.659|17|
+|114|↑35|Dokuzu|NAKISO|Kaai Yuki|26\.828\.475|496\.962|348\.609|2\.890|4\.277|21|
+|115|↑473|FLOP ERA|ePiaeon|Akita Neru|6\.836\.040|491\.422|171\.858|9\.562|5\.822|141|
+|116|↓72|Charles|balloon|Flower|62\.083\.866|484\.682|458\.093|3\.161|19\.490|99|
+|117|↑64|New Darling|MARETU|Hatsune Miku|23\.394\.942|484\.614|323\.669|4\.844|8\.634|92|
+|118|↑330|Confession to Sister|Haibara memory|Kasane Teto|11\.093\.423|481\.584|143\.876|3\.877|5\.931|96|
+|119|↑364|Science|MIMI|Kasane Teto|10\.265\.244|481\.055|140\.465|4\.718|3\.088|277|
+|120|↑34|Obsolete Meat|Satsuki|Hatsune Miku, Kasane Teto|26\.332\.382|478\.071|380\.864|3\.232|14\.588|69|
+|121|↑108|every day|bo en|Momone Momo|19\.354\.185|474\.446|355\.404|5\.869|13\.737|378|
+|122|↑2|Hole-dwelling|Kikuo|Hatsune Miku|30\.085\.850|468\.290|494\.810|7\.306|14\.788|137|
+|123|↓58|Marshall Maximizer|Hiiragi Magnetite|KAFU|49\.572\.165|467\.312|430\.582|2\.619|7\.364|27|
+|124|↓74|Ego Rock|Surii|Kagamine Len|59\.677\.998|463\.192|512\.532|2\.597|11\.066|47|
+|125|↑237|Color and Electricity|muship|Hatsune Miku|13\.343\.236|457\.680|228\.034|3\.907|14\.210|161|
+|126|↓96|Venom|Kairiki Bear|Flower|73\.902\.260|453\.082|612\.146|2\.966|19\.348|-6|
+|127|↑209|BURNOUT|Ohaikou Music|Hatsune Miku, Kasane Teto|14\.343\.985|450\.446|121\.731|2\.424|4\.362|44|
+|128|↑163|Language of the Lost|RIP|Kasane Teto|15\.945\.359|448\.580|226\.878|4\.122|6\.046|94|
+|129|↓71|villain|teniwoha|Flower|52\.867\.551|447\.875|592\.891|3\.336|13\.916|12|
+|130|↓68|Anonymous M|PinocchioP|Hatsune Miku|51\.175\.253|441\.450|926\.370|4\.577|16\.559|49|
+|131|↑472|Love and punishment \(SEKAI ver\.\)|LonePi|MEIKO|5\.481\.070|439\.693|76\.619|2\.120|2\.113|39|
+|132|↑197|The Good Child and the Fox Spirit|Kikuo|Qixuan|14\.592\.606|439\.528|253\.461|4\.972|4\.867|42|
+|133|↑300|DAREKANUITEKURE|Nununu|Otomachi Una|11\.518\.452|438\.214|226\.522|3\.957|8\.278|55|
+|134|↑485|Side Quest King \(KISAI remix\)|KIRA|Hatsune Miku|3\.687\.469|434\.117|133\.031|6\.537|2\.733|92|
+|135|↑237|D/N/A|Azari|Kasane Teto, Flower|13\.069\.231|431\.868|189\.130|2\.811|2\.070|18|
+|136|↓116|ROKI|MikitoP|Kagamine Rin|90\.692\.235|425\.495|657\.399|3\.316|25\.600|44|
+|137|↓120|DUNE|HACHI|Hatsune Miku|96\.203\.676|423\.235|841\.093|3\.354|43\.129|103|
+|138|↑371|Mesmerizer \(Concert ver\.\)|Satsuki|Hatsune Miku, Kasane Teto|9\.817\.184|411\.203|244\.234|5\.364|6\.402|99|
+|139|↑520|Mesmerizer \(Daibaku Hashin Remix\)|Satsuki, Daibaku Hashin|Hatsune Miku, Kasane Teto|407\.839|407\.839|18\.496|18\.496|301|301|
+|140|↑120|weigh anchor|Nanahoshi Orchestra|Megurine Luka|17\.368\.100|406\.319|203\.594|2\.844|2\.890|26|
+|141|↑74|Suishitai wa Koi Shitai|LonePi|Hatsune Miku|20\.081\.530|403\.594|163\.897|2\.566|2\.719|84|
+|142|↑237|LEMON MELON COOKIE|TAK|Hatsune Miku|12\.941\.240|403\.051|218\.066|3\.301|4\.926|43|
+|143|↓107|Love Trial|40mp|Hatsune Miku|66\.916\.780|401\.635|584\.744|3\.322|16\.841|65|
+|144|↓98|Six Trillion Years and Overnight Story|kemu|IA|60\.856\.983|399\.303|501\.888|3\.267|21\.959|48|
+|145|↓112|Night Sky Patrol of Tomorrow|Orangestar|IA|69\.380\.282|395\.623|550\.105|2\.689|26\.474|31|
+|146|↓103|Amanojaku|164|GUMI|62\.125\.594|395\.234|528\.297|3\.615|19\.300|128|
+|147|↓9|Darling|MARETU|Hatsune Miku|27\.916\.433|391\.960|368\.175|3\.813|11\.670|84|
+|148|↓11|White Happy|MARETU|Hatsune Miku|27\.944\.855|391\.193|294\.049|3\.042|9\.527|58|
+|149|↓77|ENVY BABY|Kanaria|GUMI|42\.744\.491|384\.600|468\.407|2\.009|9\.491|7|
+|150|↑487|Its Fiction|Chenomio|Kasane Teto|1\.869\.867|383\.822|75\.221|6\.393|2\.078|74|
+|151|↓73|Nee Nee Nee\.|PinocchioP|Hatsune Miku, Kagamine Rin|40\.308\.648|379\.335|528\.106|4\.005|7\.801|72|
+|152|↑484|Love Paradise|DECO\*27|Hatsune Miku|1\.901\.754|374\.430|96\.432|5\.429|3\.568|96|
+|153|↓46|Abnormality Dancin' Girl|Guchiry|Flower|32\.157\.133|372\.564|529\.542|4\.497|9\.938|52|
+|154|↓127|Goodbye To A World|Porter Robinson|AVANNA|77\.177\.093|371\.382|1\.696\.625|5\.827|158\.817|706|
+|155|↓76|Aun no Beats|Hanyuu Maigo|Flower|38\.917\.913|361\.136|386\.696|1\.922|6\.234|0|
+|156|↑473|Love and punishment|LonePi|Hatsune Miku|3\.051\.492|360\.167|63\.920|3\.855|1\.109|40|
+|157|↑434|We are the Garbage Separation Squad\!|Katerazawa|Kasane Teto, Zundamon|6\.254\.530|359\.388|121\.967|2\.954|4\.725|36|
+|158|↑450|Fascinator|MARETU|Hatsune Miku|5\.012\.862|358\.953|144\.079|3\.072|10\.207|42|
+|159|↓76|You Are A Worthless Child|Kikuo|Hatsune Miku|36\.870\.125|358\.201|756\.363|4\.823|21\.263|106|
+|160|↓64|Cat Loving|Kashii Moimi|KAFU|33\.594\.233|357\.756|354\.230|2\.125|3\.266|16|
+|161|↓127|BRING IT ON|Giga|Kagamine Rin, Kagamine Len|69\.240\.726|349\.097|885\.586|3\.367|20\.306|24|
+|162|↑425|Love Attribute|PinocchioP|Hatsune Miku|7\.008\.800|345\.725|169\.997|2\.655|4\.124|9|
+|163|↓74|Non-breath Oblige|PinocchioP|Hatsune Miku|35\.652\.899|344\.445|451\.134|3\.519|8\.984|58|
+|164|↓76|Gomenne Gomenne|Kikuo|Hatsune Miku|35\.923\.891|343\.449|795\.279|5\.888|38\.966|119|
+|165|↓109|Bug \(SEKAI ver\.\)|Kairiki Bear|Kagamine Len|56\.076\.985|343\.316|587\.727|1\.936|11\.610|-13|
+|166|↑436|Magic Maid|MIMI|Kasane Teto|5\.390\.116|338\.538|92\.472|3\.342|1\.866|66|
+|167|↑20|Mind Brand|MARETU|Hatsune Miku|22\.172\.596|335\.379|418\.490|4\.757|4\.369|51|
+|168|↑46|Himitsu da yo|Tuzera|Hatsune Miku|20\.029\.666|334\.722|335\.480|2\.797|10\.023|24|
+|169|↑483|Peanuta - Cult|Piinata|Kasane Teto|474\.075|328\.008|25\.002|9\.192|2\.049|317|
+|170|↓7|Ura-Omote Lovers|wowaka|Hatsune Miku|25\.525\.865|327\.962|237\.858|2\.728|5\.163|12|
+|171|↑86|YAMADA PERFECT|jon- YAKITORY|Hatsune Miku|17\.471\.141|326\.598|213\.341|2\.979|8\.340|113|
+|172|↑463|CRASH THE PARTY \(SEKAI ver\.\)|KIRA|Megurine Luka|2\.022\.419|322\.835|47\.078|2\.076|1\.441|5|
+|173|↑195|Bake no Hana|NAKISO|Hatsune Miku|13\.048\.098|322\.102|225\.472|3\.302|4\.304|39|
+|174|↑423|Clone Clone|Atena|GUMI, Kagamine Rin|5\.960\.287|320\.022|108\.674|2\.811|3\.820|55|
+|175|↓135|DAYBREAK FRONTLINE|Orangestar|IA|64\.084\.917|319\.915|551\.704|1\.890|24\.758|25|
+|176|↓90|Tale of the Deep-sea Lily|n-buna|Hatsune Miku|36\.478\.885|319\.822|422\.791|2\.498|12\.290|40|
+|177|↓52|Identity|Kanaria|Hatsune Miku, GUMI|29\.763\.518|314\.024|351\.859|1\.331|4\.375|0|
+|178|↓110|Karakuri Pierrot|40mp|Hatsune Miku|47\.928\.938|313\.156|412\.115|2\.663|14\.267|37|
+|179|↑402|ROT FOR CLOUT|Jamie Paige|Kasane Teto|7\.959\.163|312\.758|147\.906|2\.907|3\.992|85|
+|180|↑126|Idiotic Transaction|isonosuke|Chis-A|15\.386\.886|312\.637|186\.648|2\.485|3\.382|47|
+|181|↑311|Anti You \(SEKAI ver\.\)|Chinozo|Megurine Luka|9\.958\.974|312\.273|94\.543|1\.763|1\.790|43|
+|182|↑419|Ai Kotoba V|DECO\*27|Hatsune Miku|5\.365\.979|312\.231|222\.861|1\.984|7\.233|8|
+|183|↑443|Trick Heart|MIMI|Kasane Teto|3\.286\.653|311\.879|67\.126|2\.510|2\.031|46|
+|184|↓40|Hydrangea|LonePi|Kaai Yuki|27\.294\.922|310\.908|282\.301|1\.808|3\.365|-5|
+|185|↓130|Ghost Rule|DECO\*27|Hatsune Miku|56\.406\.245|307\.599|485\.059|2\.690|13\.040|62|
+|186|↑90|Who?|Azari|Kaai Yuki, Flower|16\.533\.540|306\.508|348\.475|2\.849|3\.778|13|
+|187|↓68|Gehenna|wotaku|Hatsune Miku|30\.764\.174|303\.485|301\.248|1\.717|4\.385|8|
+|188|↑367|Kaijuu ni Naritai|Sakuzyo|Hatsune Miku|8\.554\.574|297\.062|0|0|8\.656|60|
+|189|↑434|Human|FLAVOR FOLEY|SF-A2 Miki|3\.422\.972|296\.408|92\.208|2\.980|6\.261|98|
+|190|↓77|QUEEN|Kanaria|GUMI|31\.457\.593|292\.076|461\.408|1\.616|8\.078|8|
+|191|↑448|RUSSIAN ROULETTE|Staircatte|Hatsune Miku|1\.531\.196|291\.626|56\.359|4\.593|1\.445|94|
+|192|↑128|Magical Doctor|MARETU|Hatsune Miku|14\.877\.213|291\.151|294\.570|5\.109|2\.615|31|
+|193|↑250|Messed up\!|Natsuyama Yotsugi|Hatsune Miku|11\.062\.799|290\.675|204\.020|2\.692|3\.040|29|
+|194|↓49|Uminaoshi|MARETU|Hatsune Miku|27\.139\.524|287\.495|294\.441|2\.260|13\.660|25|
+|195|↑445|Magnet -recall-|minato|Hatsune Miku, Megurine Luka|1\.441\.771|286\.679|117\.158|5\.964|3\.798|132|
+|196|↓109|Egoist|Oonuma Parsley|Flower|36\.339\.485|285\.832|628\.223|2\.660|9\.596|20|
+|197|↓117|Magical Girl and Chocolate|PinocchioP|Hatsune Miku|38\.481\.580|278\.963|438\.258|2\.082|6\.902|10|
+|198|↓34|\(Not\) A Devil|DECO\*27, PinocchioP|Hatsune Miku|25\.470\.028|278\.750|341\.247|1\.964|6\.272|6|
+|199|↓132|Darling Dance|Kairiki Bear|Hatsune Miku|48\.779\.123|277\.412|465\.571|1\.958|10\.743|-9|
+|200|↑417|Osiris Dance|Mitsu akuma|Hatsune Miku, Kasane Teto|3\.614\.655|277\.258|60\.797|2\.374|5\.938|139|
+|201|↑144|Adipocere|iyowa|Hatsune Miku|13\.863\.875|277\.227|128\.053|1\.833|2\.793|31|
+|202|↑447|CakeGirl feat|NYAXU1|Kasane Teto, Yi Xi|877\.991|276\.013|11\.214|2\.764|15\.837|2\.769|
+|203|↑390|CartoonGirl|Kanaria|GUMI|6\.145\.966|275\.309|102\.092|1\.677|2\.543|23|
+|204|↓87|Ikiru|Mizuno Atsu|KAFU|30\.834\.682|273\.930|405\.298|2\.274|15\.347|121|
+|205|↑89|Young Girl A \(Remastered\)|PowapowaP|Kagamine Rin|15\.624\.430|272\.606|327\.187|4\.501|8|0|
+|206|↑27|Bake no Hana \(SEKAI ver\.\)|NAKISO|KAITO|18\.711\.202|271\.536|221\.913|1\.660|4\.537|-4|
+|207|↓2|Hana ni Kaze|balloon|Hatsune Miku|20\.945\.933|270\.090|176\.206|1\.362|2\.818|5|
+|208|↓109|It's Just Life|Nuyuri|Flower, Yuzuki Yukari|33\.138\.424|269\.407|299\.768|1\.642|5\.265|24|
+|209|↑432|Candle Queen|Lauren Estes|GUMI|1\.418\.753|265\.687|50\.881|5\.211|1\.681|107|
+|210|↓76|Plus Boy|Giga|Kagamine Len|28\.226\.108|264\.781|552\.371|4\.277|15\.217|130|
+|211|↑86|The Spell|NAKISO|Hanakuma Chifuyu|15\.513\.359|264\.611|166\.721|1\.733|1\.965|7|
+|212|↑135|Propose|Naisho no Pierce|KAFU|13\.803\.255|264\.420|264\.770|4\.731|7\.281|56|
+|213|↓176|DSCF|DECO\*27|Hatsune Miku|66\.510\.358|263\.575|585\.018|2\.692|14\.661|20|
+|214|↓160|Otome Dissection|DECO\*27|Hatsune Miku|56\.487\.116|262\.582|492\.760|1\.744|14\.407|-2|
+|215|↓23|Mikazuki Step|r-906|Hatsune Miku|21\.839\.620|261\.276|208\.460|1\.423|0|0|
+|216|↓49|World's End Dancehall|wowaka|Hatsune Miku, Megurine Luka|25\.196\.497|258\.931|255\.551|2\.321|8\.391|50|
+|217|↑383|Can Kasane Teto escape from a party\.\.\.|aterrazawa|Hatsune Miku, Kasane Teto|5\.332\.458|256\.697|86\.544|2\.339|1\.885|-2|
+|218|↓76|Tokyo Teddy Bear|Neru|Kagamine Rin|27\.350\.364|255\.308|466\.263|3\.419|12\.943|21|
+|219|↑423|FRAGILE HEART|bunnycat|Tsuina-chan|1\.404\.740|254\.333|51\.671|4\.257|3\.071|115|
+|220|↓115|Superhero|Guiano|IA|32\.357\.455|250\.579|373\.030|1\.865|7\.510|55|
+|221|↓99|Bug|Kairiki Bear|Hatsune Miku|30\.040\.466|248\.509|371\.555|1\.617|6\.722|40|
+|222|↓128|Lavie|Surii|Kagamine Len|33\.776\.622|248\.165|371\.303|2\.412|5\.284|20|
+|223|↑132|Do not go|Sohta|Kaai Yuki|13\.463\.671|246\.954|170\.106|2\.656|2\.558|24|
+|224|↓39|WHAT YOU WANT\!|asteria|Hatsune Miku|22\.333\.768|246\.897|319\.290|2\.140|9\.898|-10|
+|225|↑304|Nihiru-san \(SEKAI ver\.\)|¿?shimon|Kagamine Len|9\.106\.053|246\.071|121\.218|1\.342|2\.313|7|
+|226|↑66|YABABAINA|Satapanpi|Hatsune Miku, Kasane Teto, Zundamon|15\.652\.412|245\.625|297\.273|3\.147|12\.297|181|
+|227|↓100|Dawn and Fireflies|n-buna|Hatsune Miku|29\.018\.588|245\.588|284\.196|2\.184|7\.435|15|
+|228|↓82|1, 2, Fanclub|MikitoP|Kagamine Rin, GUMI|27\.056\.505|244\.100|284\.515|2\.182|6\.512|25|
+|229|↓126|Imperial Girl|R Sound Design|Hatsune Miku|32\.430\.661|243\.669|262\.842|1\.484|6\.646|17|
+|230|↑416|Window View|Farewell225|Kasane Teto|1\.220\.507|243\.546|68\.458|5\.741|1\.102|68|
+|231|↓154|Gimme×Gimme|Giga, Hachioji-P|Hatsune Miku, Kagamine Rin|40\.294\.739|243\.067|434\.934|1\.327|5\.044|9|
+|232|↓106|my time|bo en|Uta Utane|29\.429\.702|236\.131|471\.674|2\.446|20\.737|-12|
+|233|↑359|Stuckmoth|DECO\*27|Hatsune Miku|6\.129\.253|235\.617|199\.569|1\.539|6\.555|-5|
+|234|↑74|apricot|iyowa|Hatsune Miku|15\.196\.258|232\.778|141\.617|1\.482|3\.382|13|
+|235|↑329|Marshmallow|DECO\*27|Hatsune Miku|8\.250\.298|231\.040|258\.378|1\.495|9\.859|13|
+|236|↓6|Dec\.|Kanaria|GUMI|18\.828\.326|230\.221|200\.013|1\.118|4\.557|13|
+|237|↓29|Samsa|teniwoha|Hatsune Miku|20\.465\.753|227\.144|225\.899|1\.321|3\.388|11|
+|238|↓60|The Intense Voice of Hatsune Miku|cosMo@bousouP|Hatsune Miku|24\.051\.511|225\.777|310\.256|2\.283|10\.558|87|
+|239|↓45|Go To Daitokai|Tsukiri|GUMI|21\.546\.717|225\.630|302\.351|2\.179|14\.386|29|
+|240|↓16|Exorcism|Creep-P|Cyber Diva|19\.469\.708|222\.902|332\.162|2\.620|11\.427|67|
+|241|↑47|Four Seasons Song|Wataame|IA|15\.880\.253|222\.200|221\.809|2\.990|11\.280|74|
+|242|↓131|Loveit|PinocchioP|Hatsune Miku|31\.617\.462|221\.960|445\.973|2\.113|8\.464|14|
+|243|↓87|The Disappearance of Hatsune Miku|cosMo@bousouP|Hatsune Miku|25\.897\.526|217\.928|361\.882|3\.097|41\.801|27|
+|244|↓44|Lose the Princess|Kai|Hatsune Miku|21\.232\.269|216\.550|257\.043|1\.364|4\.301|18|
+|245|↑353|MINIMUM RAGE|MonochroMenace|Kasane Teto|5\.662\.974|215\.517|139\.145|2\.757|5\.613|86|
+|246|↑369|Encore Dance|MIMI|Kasane Teto|4\.080\.835|214\.220|78\.380|2\.349|1\.433|27|
+|247|↓119|Henceforth|Orangestar|IA|28\.861\.090|210\.086|338\.252|1\.343|30\.447|12|
+|248|↑338|Tiny Me|Masarada|Kasane Teto|7\.000\.505|208\.685|125\.555|3\.140|3\.033|56|
+|249|↑61|Take medicine and go to sleep|mochiutsune|Hatsune Miku|15\.028\.467|206\.035|228\.972|1\.807|5\.302|29|
+|250|↓61|Parasite|DECO\*27|Hatsune Miku|21\.958\.706|205\.840|299\.420|1\.389|4\.791|2|
+|251|↓92|Failure Girl \(MARETU ver\.\)|Kairiki Bear, MARETU|Hatsune Miku|25\.755\.444|201\.634|364\.517|1\.941|11\.137|18|
+|252|↓21|Hmm, Ah, Ah|SLAVE\.V-V-R|Hatsune Miku|18\.784\.126|201\.232|371\.826|2\.681|9\.591|12|
+|253|↓21|Shadow Shadow|Azari|Flower|18\.644\.376|200\.290|577\.596|1\.612|9\.634|16|
+|254|↓96|Unfriendly Hater|Meddmia|Hatsune Miku, KAFU|25\.863\.359|197\.965|363\.712|2\.281|5\.147|28|
+|255|↓185|Cute na Kanojo|syudou|KAFU|43\.854\.789|197\.669|445\.318|1\.437|12\.424|0|
+|256|↓81|Volt Tackle|DECO\*27|Hatsune Miku|24\.237\.673|197\.400|458\.077|1\.235|8\.340|7|
+|257|↑393|Because of the strange dance\.\.\.|Katerazawa|Kasane Teto, Zundamon|661\.123|196\.833|19\.625|2\.097|983|90|
+|258|↑237|Letter to the Black World|Frog96|Kasane Teto|9\.823\.411|196\.329|132\.751|1\.662|2\.895|6|
+|259|↓85|Summertime Record|Jin|IA|24\.306\.383|195\.514|222\.111|1\.805|20\.287|32|
+|260|↑180|Kuu ni Naru|MIMI|Hatsune Miku, KAFU|11\.081\.551|194\.500|130\.076|1\.663|2\.389|62|
+|261|↑14|Melancholic|Junky|Kagamine Rin|16\.474\.868|194\.313|175\.056|1\.595|2\.901|24|
+|262|↑352|Last Pharoah|Joruzin|Hatsune Miku|4\.108\.192|191\.551|143\.620|1\.859|3\.254|13|
+|263|↓182|MONSTER|KIRA|GUMI|38\.310\.420|189\.975|555\.500|1\.815|11\.546|3|
+|264|↑342|Psycho Mode|TAK|Hatsune Miku|4\.955\.132|186\.426|118\.157|1\.607|2\.669|37|
+|265|↑160|Relay Outer|inabakumori|Kaai Yuki|11\.376\.359|182\.495|146\.305|1\.364|2\.482|8|
+|266|↑64|Alien Alien|NayutalieN|Hatsune Miku|14\.281\.045|181\.828|166\.231|1\.525|2\.839|21|
+|267|↑292|Ultra Trailer|Masarada|Kasane Teto|8\.325\.402|181\.300|125\.393|2\.530|3\.734|82|
+|268|↑80|The Peachy Key|iyowa|Hatsune Miku|13\.634\.698|176\.848|170\.226|1\.877|2\.928|14|
+|269|↑225|Laplace Chocolat|Kai|Hatsune Miku|9\.817\.662|176\.693|128\.510|1\.352|2\.068|26|
+|270|↓155|Hibikase|Giga|Hatsune Miku|31\.066\.948|176\.448|315\.488|1\.546|6\.883|11|
+|271|↑105|Pink|MARETU|Hatsune Miku|12\.769\.537|176\.290|177\.221|1\.372|9\.324|29|
+|272|↑54|Bad Apple\!\! \(SEKAI ver\.\)|beatMARIO, Maron, marasy, Masayoshi Minoshima|Hatsune Miku|14\.455\.621|174\.468|230\.750|1\.624|3\.922|-4|
+|273|↓2|NEO \(SEKAI ver\.\)|Jin|Hatsune Miku|16\.783\.232|173\.826|250\.512|1\.046|4\.696|-70|
+|274|↓20|Kitty \(SEKAI ver\.\)|Tsumiki|Kagamine Len|17\.578\.184|172\.863|153\.792|928|2\.704|-5|
+|275|↓78|Shama|NILFRUITS|Flower|21\.276\.456|170\.171|272\.064|1\.386|4\.704|6|
+|276|↑340|Soto no Hito|Haraguchi Sasuke|Kasane Teto|3\.667\.198|168\.864|74\.174|2\.039|1\.685|14|
+|277|↓73|ray|Fujiwara Motoo|Hatsune Miku|20\.876\.035|167\.876|168\.753|1\.575|6\.182|27|
+|278|↓243|DONUT HOLE|HACHI|GUMI|68\.500\.829|167\.778|444\.785|1\.475|14\.028|-17|
+|279|↑77|kikkai kettai|Meddmia|Hatsune Miku, KAFU|13\.319\.838|166\.563|162\.402|1\.163|1\.739|3|
+|280|↑15|Umitagari|MARETU|Hatsune Miku|15\.515\.638|165\.963|174\.753|1\.345|4\.871|28|
+|281|↑353|POTETO CHIP|ROMA|Kasane Teto|2\.134\.061|165\.945|73\.144|2\.661|3\.137|41|
+|282|↓198|Law-evading Rock|Neru|Kagamine Len|36\.536\.320|163\.629|321\.024|1\.316|11\.720|46|
+|283|↑329|Ooparts|NILFRUITS|Hatsune Miku|4\.486\.444|163\.140|104\.391|1\.243|2\.347|15|
+|284|↑118|ULTRA C \(SEKAI ver\.\)|Giga, TeddyLoid|Hatsune Miku|11\.924\.990|162\.828|118\.197|819|3\.447|11|
+|285|↑371|Shanimuni Fireworks|PinocchioP|Hatsune Miku|161\.795|161\.795|12\.079|12\.079|298|298|
+|286|↓204|Kimagure Mercy|Hachioji-P|Hatsune Miku|37\.839\.336|160\.990|376\.276|1\.451|6\.695|7|
+|287|↑358|CRASH THE PARTY|KIRA|Hatsune Miku, Kasane Teto, GUMI|1\.140\.888|159\.068|54\.751|2\.336|1\.264|30|
+|288|↑192|MELLOMELLOID|Kairiki Bear|Hatsune Miku|10\.043\.537|158\.492|125\.814|980|2\.476|-12|
+|289|↓148|Amygdala's Rag Doll|GHOST|Oliver|27\.414\.222|157\.996|455\.101|2\.104|0|0|
+|290|↓124|Happy Halloween|Junky|Kagamine Rin|25\.092\.662|154\.633|429\.664|1\.779|19\.571|1|
+|291|↑133|Manimani|r-906|Hatsune Miku|11\.381\.485|154\.398|162\.663|1\.378|2\.662|12|
+|292|↓9|Solar System Disco|NayutalieN|Hatsune Miku|16\.163\.663|152\.890|154\.559|1\.214|2\.757|20|
+|293|↓125|Animal|DECO\*27|Hatsune Miku|25\.080\.298|150\.039|315\.338|848|4\.963|3|
+|294|↓92|CH4NGE|Giga|KAFU|20\.912\.632|147\.213|318\.445|1\.353|2\.822|0|
+|295|↓177|Tondemo-Wonderz|sasakure\.UK|Hatsune Miku, KAITO|30\.675\.046|146\.792|406\.479|1\.453|10\.769|49|
+|296|↓205|Fragile|Nuyuri|GUMI|34\.860\.113|146\.227|267\.235|880|5\.284|-13|
+|297|↑53|Envy Baby x KING|Kanaria|GUMI|13\.556\.233|144\.900|366\.752|1\.265|5\.673|-2|
+|298|↓186|Lower One's Eyes \(SEKAI ver\.\)|Nuyuri|MEIKO|31\.345\.036|144\.897|292\.719|947|5\.282|5|
+|299|↓54|Blessing|halyosy|Cryptonloids|18\.044\.498|143\.817|280\.629|2\.056|14\.029|50|
+|300|↑106|Coin Locker Baby|MARETU|Hatsune Miku|11\.759\.990|143\.812|202\.361|1\.645|8\.791|25|
+|301|↓150|Junky Night Town Orchestra|Surii|Kagamine Len|26\.102\.184|142\.788|286\.295|845|4\.425|2|
+|302|↓242|Chururira Chururira Daddadda\!|WADATAKEAKI|Yuzuki Yukari|51\.479\.531|142\.767|449\.806|1\.437|16\.062|4|
+|303|↑57|Brain Revolution Girl|MARETU|Hatsune Miku|13\.114\.763|141\.712|188\.538|1\.476|3\.986|24|
+|304|↑212|Gehenna \(SEKAI ver\.\)|wotaku|Hatsune Miku|9\.413\.723|141\.396|111\.774|848|1\.413|1|
+|305|↑313|Nisemono no Ori|ariyou|Kasane Teto|3\.424\.314|140\.620|66\.312|1\.634|533|3|
+|306|↓185|Hated by Life|Iori Kanzaki|Hatsune Miku|30\.211\.234|139\.713|366\.291|1\.809|20\.733|79|
+|307|↓212|Panda Hero|HACHI|GUMI|33\.518\.670|139\.406|248\.874|1\.534|7\.985|14|
+|308|↓147|Last Resort|Ayase|Hatsune Miku|25\.580\.418|138\.993|301\.103|1\.031|6\.682|22|
+|309|↑158|HAO|DECO\*27|Hatsune Miku|10\.285\.298|138\.900|178\.555|881|4\.023|3|
+|310|↓103|Teo|Omoi|Hatsune Miku|20\.492\.051|137\.862|236\.850|1\.221|5\.067|-5|
+|311|↑55|Unhappy Refrain|wowaka|Hatsune Miku|12\.907\.630|137\.247|120\.660|1\.088|2\.411|8|
+|312|↓128|Kareshi no Jude|syudou|Hatsune Miku|22\.282\.663|136\.700|273\.772|864|9\.398|8|
+|313|↓220|Holy Lance Explosion Boy|rerulili|Kagamine Len|33\.748\.819|134\.350|263\.788|1\.389|12\.482|56|
+|314|↓35|I GOT YOU\!|Giga|Hatsune Miku, Kagamine Rin, Kagamine Len|16\.170\.319|133\.893|458\.072|1\.324|8\.301|9|
+|315|↑150|CYBERPUNK DEAD BOY \(SEKAI ver\.\)|MaikiP|Kagamine Rin|10\.293\.908|132\.251|130\.923|1\.023|3\.043|11|
+|316|↓99|Demon Lord|Kanaria|Hatsune Miku|19\.721\.247|132\.155|216\.884|555|3\.820|-1|
+|317|↓77|I'm Sorry For My Bad Attitude|Aoya|Kasane Teto|18\.309\.446|131\.882|230\.044|1\.060|5\.543|-54|
+|318|↓210|RUMA|Kairiki Bear|Hatsune Miku|31\.843\.880|131\.304|317\.558|993|10\.902|23|
+|319|↓106|Melty Land Nightmare|Harumaki Gohan|Hatsune Miku|19\.882\.328|129\.861|200\.468|865|3\.680|9|
+|320|↓211|Love Taste|Moe Shop, Jamie Paige|GUMI|31\.736\.532|129\.314|472\.245|1\.409|11\.984|-6|
+|321|↑33|Beyond the Way|Giga|Hatsune Miku, Kagamine Rin, Kagamine Len|13\.432\.399|129\.000|243\.143|1\.220|3\.215|8|
+|322|↓160|Cinema \(SEKAI ver\.\)|Ayase|KAITO|25\.403\.458|128\.245|262\.291|616|5\.509|-5|
+|323|↓36|The Fox's Wedding|MASA WORKS DESIGN|Hatsune Miku, GUMI|15\.819\.570|127\.923|216\.686|1\.498|6\.291|34|
+|324|↓192|Alice in Freezer|Orangestar|IA|28\.230\.657|127\.792|227\.793|966|8\.809|10|
+|325|↑71|High Pitch Addicts Vocal Range Test|kimura|Hatsune Miku|12\.027\.087|127\.381|159\.968|2\.522|7\.237|77|
+|326|↓144|Salamander|DECO\*27|Hatsune Miku|23\.016\.735|126\.890|307\.600|733|3\.832|-4|
+|327|↑96|Happy Synthesizer|EasyPop|Megurine Luka, GUMI|11\.362\.612|126\.711|94\.745|1\.045|1\.687|11|
+|328|↓159|Kagerou Daze|Jin|Hatsune Miku|24\.845\.450|126\.571|270\.932|1\.763|53\.706|-17|
+|329|↑267|Can I keep this shark?|Senasuke|Hatsune Miku|5\.771\.051|125\.854|60\.498|674|2\.780|15|
+|330|↓129|Patchwork Staccato|Toa|Hatsune Miku|20\.969\.264|125\.226|249\.746|1\.714|7\.772|24|
+|331|↑279|PLAY|Giga|Hatsune Miku|4\.501\.932|124\.373|102\.998|1\.104|1\.674|5|
+|332|↑281|Enma the Second|Yomitan Akane|Kasane Teto|4\.285\.218|124\.116|67\.310|1\.262|1\.216|3|
+|333|↑98|Yamitai Girl \(Fukase ver\.\)|rerulili|Fukase|11\.211\.130|123\.913|125\.831|978|1\.337|8|
+|334|↑98|Pamela|balloon|Flower|11\.206\.240|123\.639|153\.487|1\.043|2\.378|9|
+|335|↓53|I Am You \(SEKAI ver\.\)|rerulili|Hatsune Miku|16\.134\.950|122\.712|180\.993|636|2\.346|9|
+|336|↓183|fixer|Nuyuri|Flower|25\.993\.100|122\.353|214\.641|895|4\.693|4|
+|337|↓112|Ultimate Senpai|PinocchioP|Hatsune Miku|19\.350\.694|119\.702|219\.353|747|5\.791|18|
+|338|↑52|Tondemo-Wonderz \(SEKAI ver\.\)|sasakure\.UK|KAITO|12\.311\.273|118\.470|227\.104|1\.063|4\.605|44|
+|339|↓15|Rain and Petra|balloon|Flower|14\.518\.927|118\.374|157\.579|1\.204|2\.959|12|
+|340|↑42|Mr\. Showtime \(SEKAI ver\.\)|Hitoshizuku-P|Megurine Luka|12\.613\.641|118\.311|151\.109|970|3\.093|-1|
+|341|↓150|Good Weather|Orangestar|IA|21\.807\.939|117\.843|213\.567|961|12\.235|32|
+|342|↓136|Honey I'm Home|GHOST|Dex|20\.630\.675|115\.791|285\.103|771|0|0|
+|343|↑8|p\.h\.|SEVENTHLINKS|Flower|13\.517\.267|115\.632|247\.974|1\.264|3\.351|15|
+|344|↓221|Tell Your World|kz|Hatsune Miku|29\.805\.229|115\.400|297\.139|2\.099|19\.815|-1|
+|345|↑104|Beyond the Way \(SEKAI ver\.\)|Giga|Hatsune Miku|10\.710\.911|114\.509|124\.367|592|2\.161|1|
+|346|↑41|Dance Robot Dance|Nayutalien|Hatsune Miku|12\.430\.413|114\.424|137\.358|929|2\.604|9|
+|347|↓9|Marshmary|MIMI|Hatsune Miku|13\.888\.144|114\.352|197\.837|1\.177|3\.120|0|
+|348|↓29|flos|R Sound Design|Hatsune Miku|14\.723\.140|113\.804|193\.500|1\.584|2\.366|0|
+|349|↓18|SHOW OFF \(SEKAI ver\.\)|WADATAKEAKI|Hatsune Miku|14\.153\.772|113\.142|157\.597|800|2\.559|11|
+|350|↓91|Hitorinbo Envy|koyori|Hatsune Miku|17\.182\.361|112\.977|180\.323|994|2\.967|0|
+|351|↓34|YAMINABE\!\!\!|cosMo@bousouP|Hatsune Miku|14\.741\.818|111\.346|193\.386|836|6\.417|17|
+|352|↓197|Alkali Underachiever|Kairiki Bear|Hatsune Miku|25\.878\.641|110\.339|236\.977|964|7\.413|3|
+|353|↑149|Miseen|Nuyuri, balloon|Kaai Yuki, Flower|9\.659\.256|109\.327|117\.076|847|1\.726|4|
+|354|↓50|My R|WADATAKEAKI|Hatsune Miku|15\.216\.145|108\.814|308\.773|1\.642|12\.779|11|
+|355|↓88|Yowamushi Mont Blanc|DECO\*27|GUMI|16\.790\.365|108\.448|169\.429|1\.072|8\.398|12|
+|356|↓122|SEKAI-chan to KAFU-chan no Otsukai Gousoukyoku|Minami no Minami|SEKAI, KAFU|18\.523\.608|107\.404|227\.790|951|5\.887|13|
+|357|↓108|Emptiness, Emptiness, Emptiness of Emptiness|Kikuo|Hatsune Miku|17\.725\.857|107\.219|354\.565|1\.487|13\.224|35|
+|358|↑269|LOVELY♥CAVITY|SAWTOWNE|Hatsune Miku|3\.076\.594|107\.194|129\.095|956|6\.394|4|
+|359|↓141|Surges|Orangestar|Hatsune Miku, IA|19\.689\.759|107\.032|265\.768|626|8\.827|8|
+|360|↓121|All I Need are Things I Like|PinocchioP|Hatsune Miku|18\.322\.106|107\.022|249\.695|1\.283|4\.728|23|
+|361|↓33|Iron Maiden and Dreamy Princess|Joruzin|Kagamine Rin|14\.309\.431|106\.998|249\.786|1\.091|12\.203|13|
+|362|↓163|Vocalo-Colosseum|DIVELA|Kagamine Rin|21\.167\.707|106\.861|242\.873|795|5\.008|6|
+|363|↑20|Close to Gray \(SEKAI ver\.\)|Surii|Kagamine Rin|12\.561\.949|104\.980|82\.855|511|2|0|
+|364|↓148|Deep Sea Girl|Yuuyu-P|Hatsune Miku|19\.758\.837|104\.473|177\.384|976|7\.935|10|
+|365|↓172|Odoryanse|YurryCanon|Hatsune Miku, GUMI|21\.567\.018|104\.405|183\.344|620|3\.239|1|
+|366|↓266|Sad Machine|Porter Robinson|AVANNA|32\.892\.256|104\.078|413\.504|927|18\.825|24|
+|367|↑227|Babel|Iyowa|Kasane Teto|5\.947\.839|103\.896|67\.534|757|1\.261|9|
+|368|↓148|Bad ∞ End ∞ Night|Hitoshizuku-P|Cryptonloids, GUMI, Gakupo|19\.508\.635|103\.753|367\.524|1\.410|6\.074|26|
+|369|↓85|SHANTI|wotaku|KAITO|16\.095\.699|103\.414|337\.620|1\.273|4\.203|13|
+|370|↓235|Neoki Yashi no Ki|Yukopi|Kaai Yuki|27\.966\.293|102\.261|445\.497|716|12\.183|-6|
+|371|↑140|Puppet Theater of Twee-Box|sasakure\.UK|Hatsune Miku|9\.478\.237|102\.185|148\.736|1\.416|6\.744|41|
+|372|↓232|Bocca della Verità|Hiiragi Kirai|Flower|27\.611\.095|102\.006|371\.403|791|11\.017|0|
+|373|↓72|Dance Robot Dance \(CHIMERA\)|NayutalieN + a lot more|Miku, Len, Yuki, Flower, Una|15\.248\.155|101\.985|353\.460|932|7\.304|1|
+|374|↓176|Cinderella|DECO\*27|Hatsune Miku|21\.181\.363|101\.848|301\.507|590|6\.833|3|
+|375|↓210|Yobanashi Deceive|Jin|IA|25\.130\.648|101\.628|191\.241|675|9\.520|-7|
+|376|↑66|Orthodoxia|Guchiry|Kagamine Len, Otomachi Una|10\.922\.845|100\.563|137\.983|897|2\.488|15|
+|377|↑84|MORE\! JUMP\! MORE\! \(SEKAI ver\.\)|NayutalieN|Hatsune Miku|10\.425\.944|100\.148|142\.784|952|2\.860|12|
+|378|↑38|Shakai Kouken ☆ Ganbaru no DA\!\!\.|Nununu|Zundamon and more|11\.465\.342|99\.986|309\.076|810|7\.983|-10|
+|379|↓168|Childish War|Giga|Kagamine Len, Kagamine Rin|20\.115\.818|99\.831|287\.281|1\.416|4\.184|6|
+|380|↑84|Ano Natsu ga Houwa Suru \(2020 ver\.\)|Kanzaki Iori|Kagamine Rin, Kagamine Len|10\.283\.463|99\.172|174\.659|1\.118|5\.362|49|
+|381|↑252|Acute Love Addiction|Piinata|Kasane Teto|2\.105\.812|98\.836|49\.790|1\.195|1\.766|39|
+|382|↓117|Jackpot Sad Girl \(SEKAI ver\.\)|syudou|Hatsune Miku|16\.935\.206|98\.612|181\.794|728|2\.740|3|
+|383|↓41|The Religion of Loneliness|syudou|Hatsune Miku|13\.752\.237|98\.343|215\.697|877|3\.058|-2|
+|384|↓27|Double Lariat|AgoanikiP|Megurine Luka|13\.217\.447|98\.004|120\.746|1\.071|4\.605|34|
+|385|↑118|Hiasobi|Camellia|Hatsune Miku|9\.588\.071|97\.977|150\.916|982|3\.029|26|
+|386|↑135|Gigantic O\.T\.N|Giga|Kagamine Len|9\.201\.065|97\.689|161\.711|1\.162|5\.459|-7|
+|387|↓239|Akari Has Arrived|GYARI|Kizuna Akari|26\.535\.413|97\.166|403\.213|947|18\.457|-13|
+|388|↓75|Poppin' Candy Fever\!|kinoshita|Kagamine Rin, Otomachi Una|14\.842\.944|96\.638|205\.872|962|5\.739|2|
+|389|↑32|Leschenaultia|FLG4|Flower|11\.372\.127|96\.352|185\.249|1\.048|2\.349|3|
+|390|↓63|It's A Whole World|Soichi|Kagamine Len|14\.350\.138|94\.544|268\.484|960|9\.766|32|
+|391|↑230|All Save Challenge \(SEKAI ver\.\)|Kashii Moimi|KAITO|3\.235\.112|94\.007|53\.138|580|1\.125|1|
+|392|↓180|Karma|CircusP|Kagamine Rin|20\.017\.518|93\.613|300\.908|1\.064|10\.428|3|
+|393|↑113|Rainy Boots|inabakumori|Kaai Yuki|9\.543\.537|93\.140|164\.796|692|2\.694|6|
+|394|↑237|Irregular Man|Masarada|Kasane Teto|2\.339\.182|92\.436|50\.826|1\.001|2\.367|12|
+|395|↑149|Suji|MARETU|Hatsune Miku|8\.538\.716|92\.155|90\.017|757|3\.180|27|
+|396|↓213|Viva Happy|Mitchie M|Hatsune Miku|22\.710\.694|91\.873|320\.070|1\.362|15\.139|14|
+|397|↑208|Yowamushi Mont Blanc \(Reloaded\)|DECO\*27|Hatsune Miku|5\.003\.599|91\.687|144\.207|716|4\.896|5|
+|398|↓150|Transparent Elegy|n-buna|GUMI|17\.733\.955|91\.360|209\.265|826|5\.392|10|
+|399|↓119|Shamer|Chinozo|Flower|16\.116\.972|90\.881|213\.298|699|4\.855|13|
+|400|↑69|Bitter Choco Decoration \(SEKAI ver\.\)|syudou|Hatsune Miku|10\.148\.514|90\.866|143\.184|684|1\.583|4|
+|401|↓135|Close and Open, Demons and The Dead|HACHI|Hatsune Miku|16\.812\.363|90\.711|210\.961|1\.610|9\.914|28|
+|402|↑98|Comet Honeymoon|NayutalieN|Hatsune Miku|9\.656\.300|90\.487|115\.232|739|1\.488|5|
+|403|↓207|Ready Steady|Giga|Hatsune Miku, Kagamine Rin, Kagamine Len|21\.299\.674|90\.298|340\.150|674|5\.425|2|
+|404|↑111|Cheese|Chinozo|KAFU|9\.370\.855|90\.030|131\.656|927|2\.329|9|
+|405|↓182|Close To Gray|Surii|Kagamine Len|19\.349\.452|89\.987|261\.872|769|4\.818|2|
+|406|↓120|Bacterial Contamination|Kanimiso-P|Hatsune Miku|15\.861\.492|89\.893|272\.902|2\.255|25\.107|89|
+|407|↓260|SLoWMoTIoN|PinocchioP|Hatsune Miku|26\.900\.292|89\.803|278\.034|779|8\.767|24|
+|408|↑60|FUTURE EVE|sasakure\.UK|Hatsune Miku|10\.200\.955|89\.758|143\.963|1\.159|2\.400|18|
+|409|↑119|IDSMILE \(SEKAI ver\.\)|Toa|MEIKO|8\.956\.247|89\.309|136\.545|657|2\.029|-1|
+|410|↓7|Mozaik Role \(Reloaded\)|DECO\*27|Hatsune Miku|11\.759\.628|88\.367|224\.060|561|4\.268|0|
+|411|↑209|Wasure Mono|iyowa|Hatsune Miku|3\.297\.625|88\.151|66\.505|690|2\.179|4|
+|412|↓15|Alluring Secret ~Black Vow~|Hitoshizuku-P|Hatsune Miku, Kagamine Rin|11\.978\.121|87\.913|194\.511|1\.270|3\.158|29|
+|413|↑198|Which one?|hiroki\.|Hatsune Miku, Kasane Teto|4\.448\.314|86\.758|153\.281|1\.671|5\.172|7|
+|414|↓242|Identity \(SEKAI ver\.\)|Kanaria|Hatsune Miku|24\.506\.622|86\.267|301\.292|409|3\.784|-2|
+|415|↓147|We Are Different \!\!\! \(or Same\)|Carlos Hakamada|Hatsune Miku, Otomachi Una|16\.745\.285|85\.610|190\.041|970|6\.459|11|
+|416|↓152|Selfish Princess|Fujiwo|Hatsune Miku|16\.946\.924|85\.308|263\.735|861|6\.843|18|
+|417|↓12|88☆彡 \(SEKAI ver\.\)|Wonderlands x Showtime|KAITO|11\.729\.819|84\.993|166\.444|716|3\.477|6|
+|418|↑2|Yamitai Girl|rerulili|GUMI|11\.382\.306|84\.804|167\.445|1\.190|2\.725|23|
+|419|↑3|Loneliness of Spring|inabakumori|Tsurumaki Maki|11\.346\.585|83\.999|171\.519|642|3\.853|2|
+|420|↓165|Haikei Doppelganger|kemu|GUMI|17\.386\.962|83\.876|198\.573|888|8\.262|25|
+|421|↑17|phony \(SEKAI ver\.\)|Tsumiki|MEIKO|10\.994\.994|83\.700|140\.391|553|1\.796|7|
+|422|↓150|Love Ka|Hiiragi Kirai|Flower|16\.575\.895|83\.600|261\.055|947|7\.104|6|
+|423|↓153|MACHINEGUN POEM DOLL|cosMo@bousouP|Hatsune Miku|16\.705\.338|83\.393|218\.364|653|5\.905|-8|
+|424|↓20|Day by Days|syudou|Hatsune Miku, KAFU|11\.748\.568|83\.202|196\.925|670|5\.048|9|
+|425|↓26|One Sheep \(SEKAI ver\.\)|Peg|MEIKO|11\.955\.561|82\.822|110\.924|394|1\.688|2|
+|426|↑31|Flyer\! \(SEKAI ver\.\)|Chinozo|Kagamine Len|10\.466\.424|81\.420|120\.308|422|1\.848|0|
+|427|↑211|Please, Doctor\!|Chenomio|Kasane Teto|1\.439\.950|81\.139|56\.519|1\.525|2\.853|17|
+|428|↓184|Elite|Chinozo|KAFU|17\.993\.630|81\.016|228\.598|742|4\.335|6|
+|429|↑45|Because You're Here|PinocchioP|Hatsune Miku|10\.066\.497|80\.622|202\.202|2\.587|7\.852|146|
+|430|↓145|Common World Domination|PinocchioP|Hatsune Miku|15\.869\.769|80\.261|180\.550|776|3\.769|24|
+|431|↓61|Kafu-chan no Curry Udon Kyousoukyoku|Minami no Minami|KAFU, Touhoku Kiritan|12\.733\.653|80\.013|187\.576|822|6\.007|25|
+|432|↓186|Until Your Night Dawns|Kasamura Tota|IA, Fukase|17\.783\.458|79\.666|312\.362|1\.443|11\.347|-6|
+|433|↑123|Jangsanbeom|50mang|SeeU|8\.306\.915|79\.664|83\.348|517|5\.306|13|
+|434|↓153|What's Inside|PinocchioP|Hatsune Miku|16\.097\.205|79\.387|210\.405|539|4\.899|9|
+|435|↓22|Dilemma|DECO\*27|Hatsune Miku|11\.526\.115|79\.259|216\.347|687|3\.848|8|
+|436|↑140|Glorious Day|Eve|Hatsune Miku|7\.871\.493|79\.187|225\.168|699|4\.094|5|
+|437|↓249|Cause I'm a Liar|Robyns-P|Fukase|21\.875\.623|78\.950|349\.201|689|19\.177|19|
+|438|↓106|Love Words IV|DECO\*27|Hatsune Miku|14\.063\.824|78\.883|298\.898|442|7\.971|0|
+|439|↓220|Becoming Potatoes|Neru|Kagamine Rin, Kagamine Len|19\.534\.137|78\.755|228\.142|717|4\.621|2|
+|440|↑110|Denki Yohou|inabakumori|Hatsune Miku|8\.488\.609|78\.382|162\.143|356|3\.440|2|
+|441|↓89|Seraphim On The Ring|Mitchie M|Hatsune Miku, Kagamine Rin|13\.452\.187|78\.309|345\.436|1\.462|9\.698|15|
+|442|↓285|Seyana|GYARI|Yuzuki Yukari, Kotonoha Akane|25\.753\.965|78\.225|390\.575|786|19\.959|-45|
+|443|↑3|Suicide Parade|YurryCanon|GUMI|10\.779\.568|78\.157|122\.743|772|2\.540|6|
+|444|↓25|drop pop candy|Giga|Megurine Luka, Kagamine Rin|11\.397\.506|78\.056|201\.340|1\.207|5\.208|11|
+|445|↓102|Tricologe \(SEKAI ver\.\)|NILFRUITS|Hatsune Miku|13\.708\.329|77\.939|134\.063|463|2\.089|3|
+|446|↓148|The Transient Apples Salesgirl|yukkedoluce|GUMI|15\.322\.297|77\.841|238\.205|1\.012|8\.265|15|
+|447|↓147|Journey \(SEKAI ver\.\)|DECO\*27|Hatsune Miku|15\.229\.079|76\.063|240\.302|423|3\.944|3|
+|448|↓190|Traffic Jam|NILFRUITS|Flower|17\.148\.434|75\.933|228\.558|647|3\.913|0|
+|449|↓214|Mental Chainsaw|Kairiki Bear|Hatsune Miku|18\.484\.411|75\.830|213\.877|675|5\.117|12|
+|450|↓24|World Domination How-To|Neru|Kagamine Rin, Kagamine Len|11\.255\.766|75\.706|150\.752|610|3\.414|4|
+|451|↓204|Cinema|Ayase|Hatsune Miku|17\.768\.558|75\.454|268\.469|440|5\.991|0|
+|452|↓257|39Music\!|MikitoP|Hatsune Miku|21\.300\.431|75\.195|387\.749|691|10\.888|4|
+|453|↓191|The Chattering Lack of Common Sense|GHOST|GUMI|16\.989\.277|74\.428|236\.307|598|0|0|
+|454|↓204|Positive Dance Time|kinoshita|Kagamine Rin, Otomachi Una|17\.661\.485|74\.017|229\.391|729|4\.832|3|
+|455|↓1|Dance Orchestra|YASUHIRO|IA|10\.509\.851|73\.228|152\.247|694|3\.272|7|
+|456|↑14|Rotten Heresy and Chocolate|PinocchioP|Hatsune Miku|10\.130\.306|72\.675|146\.871|1\.105|4\.746|24|
+|457|↑48|Torinoko City|40mp|Hatsune Miku|9\.540\.234|72\.534|93\.867|971|2\.136|30|
+|458|↑23|I'm Glad You're Evil Too|PinocchioP|Hatsune Miku|9\.896\.412|72\.192|155\.240|1\.166|3\.042|21|
+|459|↑51|CRaZY \(SEKAI ver\.\)|Umetora|Megurine Luka|9\.470\.592|72\.145|110\.696|394|1\.957|-2|
+|460|↓50|The Earth's Final Confession|kemu|GUMI|11\.580\.936|71\.452|135\.200|906|4\.303|6|
+|461|↓233|Hate it\. Hate it\. "JIGAHIDAI\!"|WADATAKEAKI|Otomachi Una|18\.953\.413|71\.413|221\.626|830|6\.363|-1|
+|462|↓151|HOUSEWIFE RADIO|GHOST|GUMI|14\.863\.112|71\.349|207\.467|552|0|0|
+|463|↓222|Additional Memory|Jin|Hatsune Miku|18\.218\.438|71\.276|208\.268|645|34\.238|19|
+|464|↓190|MIND BRAND MV|MARETU|Hatsune Miku|16\.456\.889|70\.928|403\.810|2\.373|12\.513|72|
+|465|↑124|WILDCARD|KIRA|Kasane Teto|6\.282\.480|70\.816|104\.826|605|1\.606|4|
+|466|↓228|Disturb Manic Girl|rerulili|Hatsune Miku, GUMI|18\.378\.060|70\.592|178\.352|509|7\.051|4|
+|467|↓14|Is there a Life in It?|DIVELA|Hatsune Miku|10\.518\.835|70\.476|199\.557|1\.553|4\.047|14|
+|468|↓362|Red Paper & Blue Paper|Konig|Hatsune Miku|32\.159\.758|70\.330|114\.327|245|5\.041|8|
+|469|↓213|Hand in Hand|kz|Hatsune Miku|17\.308\.820|70\.289|227\.815|614|5\.609|12|
+|470|↓41|GETCHA\!|KIRA|Hatsune Miku, GUMI|11\.169\.907|70\.202|202\.162|538|3\.358|-2|
+|471|↓244|Ohedo Julia-Night|Mitchie M|Hatsune Miku, KAITO|18\.955\.565|69\.380|314\.510|773|9\.448|10|
+|472|↑40|Children Record|Jin|IA|9\.413\.745|69\.211|115\.606|561|5\.620|16|
+|473|↓294|Delusion Tax|DECO\*27|Hatsune Miku|23\.847\.971|69\.131|192\.823|623|4\.416|5|
+|474|↓90|Underachieving Lover|Kairiki Bear|Kagamine Rin|12\.481\.382|68\.771|171\.973|482|7\.944|-1|
+|475|↓101|METEOR|DIVELA|Hatsune Miku|12\.668\.475|68\.574|137\.555|492|2\.980|5|
+|476|↓234|Protodisco|Nuyuri|Flower|18\.013\.746|68\.362|202\.121|632|2\.629|5|
+|477|↓251|Android Girl|DECO\*27|Hatsune Miku|19\.276\.295|67\.657|273\.093|425|8\.647|1|
+|478|↓156|I Can't Win Against Dense Guys\!|LamazeP|Kagamine Rin|14\.623\.937|67\.473|229\.458|844|12\.528|10|
+|479|↓71|Invisible|kemu|GUMI, Kagamine Rin|11\.607\.672|67\.189|97\.645|540|3\.205|6|
+|480|↓85|Cinderella \(Giga Remix\)|DECO\*27, Giga|Hatsune Miku|11\.978\.713|66\.947|192\.264|441|2\.964|1|
+|481|↑82|Yoshiwara Lament|asa|Kasane Teto|8\.113\.328|66\.719|106\.998|1\.763|2\.498|15|
+|482|↓43|Remote Control|JesusP|Kagamine Rin, Kagamine Len|10\.968\.716|66\.685|141\.057|811|2\.805|4|
+|483|↑60|Slow Downer|Rokuro|Hatsune Miku, GUMI|8\.524\.597|66\.662|115\.354|566|1\.449|3|
+|484|↑56|Mr\. SCHADENFREUDE|Hitoshizuku-P|Cryptonloids, Kamui Gakupo, GUMI|8\.621\.582|66\.382|143\.333|609|4\.959|2|
+|485|↓207|Sunset Yesterday|Jin|IA|16\.207\.326|66\.171|137\.581|496|6\.139|-3|
+|486|↓27|Atonement|Kasamura Tota|Hatsune Miku, Fukase, IA, Yuzuki Yukari, Ken|10\.429\.118|65\.758|200\.732|858|10\.367|24|
+|487|↑51|Love by Proxy|balloon|Hatsune Miku, Flower|8\.630\.677|64\.600|99\.336|696|1\.894|6|
+|488|↓211|Check Check Check One Two\!|WADATAKEAKI|Yuzuki Yukari|16\.268\.485|64\.584|195\.577|591|5\.071|6|
+|489|↓2|Chimera|DECO\*27|Hatsune Miku|9\.767\.072|64\.551|177\.424|542|3\.270|15|
+|490|↑42|Zunda Party Night|namigroove|Zundamon|8\.895\.132|64\.501|143\.716|663|3\.700|1|
+|491|↓124|Casino|Azari|Flower|12\.800\.424|64\.196|430\.752|441|6\.446|5|
+|492|↓16|Dame Ningen da\!|Usushioshisuu|Kasane Teto|10\.021\.563|63\.990|183\.358|904|5\.267|49|
+|493|↓178|Alter Ego|Misumi|Hatsune Miku|14\.752\.322|63\.558|207\.184|587|2\.845|2|
+|494|↑58|Trash and Trash\!|WADATAKEAKI|Kagamine Rin|8\.409\.703|63\.470|103\.090|412|3\.564|6|
+|495|↓88|Spinning Sky Rabbit|Orangestar|Hatsune Miku|11\.611\.822|62\.780|198\.816|963|5\.391|10|
+|496|↓25|Rin-chan getting kicked on the bullet train|Yukatefu-P|Kagamine Rin|10\.117\.616|62\.334|216\.937|685|4\.118|6|
+|497|↓63|Greenlights Serenade|kimura|Hatsune Miku|11\.133\.058|62\.333|171\.381|509|5\.043|15|
+|498|↑69|I'm High|MARETU|Hatsune Miku|8\.053\.528|62\.282|86\.757|538|2\.869|-6|
+|499|↑23|Kodoku Dokudoku|syudou|Hatsune Miku|9\.148\.208|61\.812|152\.135|471|2\.754|2|
+|500|↓120|Moonlight \(SEKAI ver\.\)|Harumaki Gohan, Tatsuya Kitani|MEIKO|12\.570\.180|61\.747|140\.102|329|2\.109|2|
+|501|↓24|Worrisome|Dasu|Kagamine Len|10\.004\.555|61\.552|187\.881|1\.024|12\.957|31|
+|502|↓52|Zombies|DECO\*27|Hatsune Miku|10\.655\.335|61\.423|199\.651|404|3\.545|7|
+|503|↓169|EYE|Kanaria|GUMI|14\.016\.073|61\.350|256\.778|397|6\.382|-2|
+|504|↓7|Kibou no Tsuki|nakyamurya|Yuzuki Yukari|9\.674\.046|61\.283|116\.710|376|4\.314|-5|
+|505|↓58|Cendrillon \(10th Anniversary\)|SignalP|Hatsune Miku, KAITO|10\.713\.550|60\.855|144\.832|599|2\.544|-7|
+|506|↓89|Repentance Pilgrimage|Hanyuu Maigo|Hatsune Miku, Flower|11\.426\.056|60\.747|152\.996|538|2\.313|2|
+|507|↓270|Whatever Whatever Whatever|Neru|Kagamine Rin, Kagamine Len|18\.371\.292|60\.609|252\.173|518|6\.420|6|
+|508|↓9|DoReMiFa Rondo|40mp|Hatsune Miku|9\.644\.480|60\.275|120\.380|780|5\.771|16|
+|509|↓236|Machine Gun|KIRA|GUMI|16\.466\.087|59\.698|259\.220|497|6\.625|5|
+|510|↓151|Reversible Campaign|DECO\*27|Hatsune Miku|13\.118\.873|58\.960|166\.272|452|3\.115|-2|
+|511|↓113|Balleriko|MikitoP|Hatsune Miku, GUMI|11\.938\.240|58\.838|113\.809|511|1\.748|9|
+|512|↓40|Meru|n-buna|Hatsune Miku|10\.081\.264|57\.869|114\.678|583|2\.607|6|
+|513|↓12|Yomosugara Kimi Omou|NishizawasanP|GUMI|9\.609\.703|57\.761|135\.128|625|2\.547|9|
+|514|↓311|Proof Geometric Construction Can Solve All Love Affairs|manbo-p|GUMI|20\.784\.928|57\.314|746\.722|861|22\.063|22|
+|515|↓226|Glory Steady Go \(SEKAI ver\.\)|kinoshita|Megurine Luka|15\.670\.345|56\.170|192\.246|337|5\.445|-12|
+|516|↓88|Kuusou Ressha|Orangestar|Hatsune Miku, IA|11\.161\.459|56\.085|100\.525|544|3\.290|12|
+|517|↓29|Shoujo Rei \(SEKAI ver\.\)|MikitoP|Hatsune Miku|9\.738\.319|56\.070|149\.915|514|2\.781|0|
+|518|↓10|Hollow \(SEKAI ver\.\)|Shishi Shishi|KAITO|9\.498\.023|55\.972|116\.210|340|1\.805|1|
+|519|↓57|Kanade Tomosu Sora|nekobolo|Megurine Luka|10\.355\.519|55\.814|116\.976|356|2\.261|0|
+|520|↓135|\.|subeteanatanoseidesu|Kaai Yuki|12\.436\.457|55\.806|0|0|51\.261|-26|
+|521|↑21|Ironina|NILFRUITS|Flower|8\.514\.760|55\.533|116\.138|414|2\.470|5|
+|522|↓136|Blessed Messiah and the Tower of AI|Hitoshizuku-P|Cryptonloids, GUMI, Gakupo, AI, MAYU|12\.407\.167|55\.232|159\.036|439|7\.429|5|
+|523|↓6|Hungry Nicole|NILFRUITS|Flower|9\.323\.324|54\.914|120\.410|520|2\.530|-2|
+|524|↑11|SNOBBISM|Neru|Kagamine Rin, Kagamine Len|8\.757\.958|54\.342|135\.797|538|3\.148|-1|
+|525|↓176|Ayano's Theory of Happiness|Jin|IA|13\.481\.228|54\.115|129\.526|674|7\.995|13|
+|526|↓90|The Flowers Have Fallen, So|Hifumi|Hatsune Miku|11\.086\.716|53\.845|182\.316|797|2\.126|2|
+|527|↓220|Vampire’s ∞ pathoS|Hitoshizuku-P|Kagamine Len|15\.022\.230|53\.598|280\.241|527|5\.598|-1|
+|528|↓210|hello world|Louie Zong|Myriad Virtual Singer|14\.673\.707|53\.397|779\.051|731|33\.813|13|
+|529|↑99|Facade Question|Satsuki|Hatsune Miku, Kasane Teto|2\.828\.281|52\.990|85\.654|391|2\.830|-3|
+|530|↑1|Cynical Night Plan|Ayase|Hatsune Miku|8\.895\.097|52\.969|127\.161|316|2\.450|2|
+|531|↑14|Psychogram|DECO\*27|Hatsune Miku|8\.491\.428|52\.969|179\.268|993|5\.610|9|
+|532|↓280|Beat Eater \(SEKAI ver\.\)|Police Piccadilly|Kagamine Len|17\.464\.903|52\.494|186\.112|299|3\.594|-3|
+|533|↓217|Dreamin Chuchu|emon|Megurine Luka|14\.703\.286|52\.492|267\.512|661|6\.105|-7|
+|534|↓190|Pig Thunder|Yukopi|Kaai Yuki|13\.678\.396|52\.341|208\.906|297|7\.723|-10|
+|535|↓11|Stella \(SEKAI ver\.\)|Jin|Hatsune Miku|9\.036\.375|51\.895|132\.154|467|3\.827|10|
+|536|↓122|Ghost City Tokyo|Ayase|Hatsune Miku|11\.490\.024|51\.621|198\.794|516|3\.604|-2|
+|537|↓145|Nobody Makes Sense|PinocchioP|GUMI|12\.208\.950|51\.618|159\.567|430|3\.203|3|
+|538|↓59|MIRA|Kanaria|Koharu Rikka|9\.960\.917|50\.198|193\.839|330|4\.279|0|
+|539|↓43|out of ink|Barbapapa|Touhoku Itako|9\.664\.880|50\.157|112\.578|228|7\.635|9|
+|540|↓217|Kiritan Wants to Battle Online Endlessly|GYARI|Tohoku Kiritan|14\.585\.627|50\.044|219\.983|325|11\.150|0|
+|541|↓63|Crazy ∞ nighT|Hitoshizuku-P|Piapro, Kamui Gakupo, GUMI|9\.973\.990|49\.990|129\.107|431|1\.430|-2|
+|542|↓44|Dokuhaku|MARETU|Hatsune Miku|9\.656\.680|49\.958|98\.414|486|4\.661|10|
+|543|↓116|LONDON SLAG PARTY HIGH|MASA WORKS DESIGN|Hatsune Miku|11\.201\.609|49\.124|219\.902|767|4\.953|-16|
+|544|↓155|Clockwork Girl|ittomaru|Hatsune Miku|12\.259\.617|49\.110|201\.711|541|11\.891|-6|
+|545|↓154|Liar Dance|DECO\*27|Hatsune Miku|12\.235\.134|48\.981|125\.218|379|2\.348|0|
+|546|↓175|Stickybug|DECO\*27|Hatsune Miku|12\.700\.154|48\.980|174\.958|749|6\.106|19|
+|547|↓462|Confession Rival Declaration|HoneyWorks|GUMI|36\.309\.064|48\.736|263\.952|438|12\.675|-8|
+|548|↑3|Shotgun All|Chinozo|Flower|8\.400\.049|48\.572|127\.657|440|5\.599|10|
+|549|↓16|Menhera Janai Mon\!|Isana|Hatsune Miku, Otomachi Una|8\.838\.795|48\.451|195\.118|633|5\.028|-6|
+|550|↓87|Mao|Kairiki Bear|Hatsune Miku|10\.310\.717|48\.428|130\.824|339|3\.821|2|
+|551|↓182|Aira|n-buna|GUMI|12\.753\.876|48\.068|115\.329|424|4\.209|0|
+|552|↓122|Gunjo Sanka \(SEKAI ver\.\)|Eve|Hatsune Miku|11\.139\.007|47\.926|322\.194|378|5\.810|3|
+|553|↓290|Again|Crusher|GUMI|16\.958\.738|47\.846|231\.765|369|6\.326|8|
+|554|↓261|Kisaragi Attention|Jin|IA|15\.431\.117|47\.673|122\.875|466|5\.905|0|
+|555|↓286|BABY MY PHONE|YAMEII|AVANNA|16\.701\.907|47\.656|558\.562|503|17\.636|3|
+|556|↓251|Aoi-chan Is Going to Eat ChocoMint No Matter What|GYARI|Kotonoha Aoi, Kotonoha Akane|15\.135\.014|47\.504|333\.164|505|23\.211|-8|
+|557|↑1|The Earth's Final Confession \(SEKAI ver\.\)|kemu|Megurine Luka|8\.253\.179|46\.786|108\.426|293|1\.995|1|
+|558|↓305|Love Words III|DECO\*27|Hatsune Miku|17\.454\.433|46\.461|249\.779|353|8\.580|1|
+|559|↓6|Airhead|Picon|Hatsune Miku|8\.356\.995|46\.366|143\.642|487|3\.116|0|
+|560|↑14|HERO|Ayase|Hatsune Miku|7\.943\.311|46\.155|210\.074|373|4\.606|-9|
+|561|↓101|A Moment's Rain, The Final War|Orangestar|IA|10\.390\.667|46\.104|120\.969|342|3\.257|6|
+|562|↓71|Kilmer|NILFRUITS|Flower|9\.721\.141|45\.597|161\.592|444|3\.783|-4|
+|563|↓198|Life Reset Button|kemu|GUMI|12\.830\.014|45\.072|91\.954|357|4\.159|14|
+|564|↓268|ECHO \(Living Tombstone Remix\)|Crusher, The Living Tombstone|GUMI|15\.314\.045|45\.006|248\.592|460|11\.715|-72|
+|565|↓177|Horror Piano Theme|Private Hell Productions|Hatsune Miku|12\.299\.812|44\.608|95\.291|231|2\.430|3|
+|566|↑5|Nightmare|Azari|Flower|8\.015\.548|44\.403|223\.556|297|3\.101|0|
+|567|↓214|Violence Trigger|Hachioji-P|Hatsune Miku|13\.379\.042|43\.873|153\.073|384|6\.409|-8|
+|568|↓95|Mozaik Role|DECO\*27|GUMI|10\.037\.311|43\.866|113\.342|636|2\.563|33|
+|569|↓103|Alice in N\.Y\.|Hitoshizuku-P|Cryptonloids, IA, MAYU, GUMI, Gakupo|10\.200\.883|43\.407|145\.715|346|3\.702|1|
+|570|↓2|I'm Sorry I'm Not Honest|Aotani|Kasane Teto|8\.031\.817|42\.609|103\.243|388|2\.470|-23|
+|571|↓236|Möbius|Hiiragi Kirai|Flower|13\.953\.436|42\.453|185\.404|239|8\.673|-5|
+|572|↓116|Streaming Heart|DECO\*27|Hatsune Miku|10\.439\.739|42\.046|105\.766|353|2\.243|-1|
+|573|↓26|Adult Children|Kanzaki Iori|Kagamine Rin|8\.469\.243|42\.029|126\.701|511|11\.037|16|
+|574|↓253|Ghosts Play to the Audience|PinocchioP|Hatsune Miku|14\.603\.047|42\.028|159\.209|278|3\.391|1|
+|575|↓10|I Think I Just Died|Guiano|Flower|8\.058\.607|41\.786|148\.496|623|3\.301|1|
+|576|↓203|Appetite of a People-Pleaser|GHOST|Flower|12\.647\.292|41\.398|185\.729|223|0|0|
+|577|↓133|Anti Joker|MaikiP|Hatsune Miku|10\.804\.081|41\.266|173\.752|469|3\.334|3|
+|578|↓178|Autophagy|Hiiragi Kirai|Flower|11\.840\.245|40\.846|170\.353|254|5\.913|0|
+|579|↓238|Eva|Hiiragi Kirai|Flower|13\.726\.968|40\.447|153\.058|347|5\.264|-9|
+|580|↓54|ECHO \(SEKAI ver\.\)|Crusher|Megurine Luka|8\.941\.917|40\.086|141\.857|376|3\.422|0|
+|581|↓330|R\.I\.P\. Gossip Sea|cosMo@bousouP|GUMI|17\.536\.896|40\.019|289\.688|232|7\.411|-2|
+|582|↓409|Diagnosis: Lovesickness|HoneyWorks|GUMI|24\.320\.768|39\.845|150\.840|254|5\.007|9|
+|583|↓165|There Seems to Be a Hidden Command to Being Happy|UtataP|Yuzuki Yukari|11\.391\.961|39\.579|161\.275|611|5\.586|7|
+|584|↓65|PaⅢ\.SENSATION|Yunosuke|Hatsune Miku, GUMI, Kagamine Rin|9\.222\.549|39\.374|140\.496|350|1\.571|7|
+|585|↓65|Fantasy Forest|Jin|IA|9\.162\.042|39\.184|88\.614|315|3\.635|9|
+|586|↓97|Jackpot Sad Girl|syudou|Hatsune Miku|9\.719\.712|38\.595|170\.438|507|3\.362|5|
+|587|↓73|EveR ∞ LastinG ∞ NighT|Hitoshizuku-P|Cryptonloids, GUMI, Gakupo|9\.324\.153|38\.349|129\.332|336|2\.790|5|
+|588|↓211|Sister’s ∞ mercY|Hitoshizuku-P|Kagamine Rin|12\.606\.952|38\.201|266\.726|438|4\.496|-4|
+|589|↓178|Portrait of the Pirate F|Hitoshizuku-P|Crpytonloids w/o Hatsune Miku|11\.532\.238|38\.186|164\.908|309|3\.760|-2|
+|590|↓251|Hello Dystopia|mafumafu|Kagamine Rin, Kagamine Len|13\.759\.891|37\.642|211\.701|270|7\.926|-6|
+|591|↓9|Apple dot com|PinocchioP|Hatsune Miku|7\.662\.902|36\.862|107\.215|290|3\.050|4|
+|592|↓85|Love\! Snow\! Really Magic|Mitchie M|Hatsune Miku|9\.483\.930|36\.789|134\.113|386|4\.013|7|
+|593|↓284|RAD DOGS \(SEKAI ver\.\)|Hachioji-P|Hatsune Miku|14\.863\.305|36\.732|190\.923|280|4\.432|-3|
+|594|↓136|Eye Examination|40mp|GUMI|10\.421\.063|36\.615|78\.956|346|1\.916|6|
+|595|↓143|Headphone Actor|Jin|IA|10\.509\.789|36\.183|70\.128|233|3\.635|-2|
+|596|↑11|Pathological Facade|GHOST|Kasane Teto|4\.746\.272|35\.681|74\.517|304|0|0|
+|597|↓93|ChichinPuiPui|Mashima Yuro|Hatsune Miku, Flower|9\.522\.882|35\.559|209\.232|386|7\.646|-2|
+|598|↓112|Secrets of Wysteria|Steampiant|Oliver|9\.778\.658|35\.554|255\.844|793|26\.635|35|
+|599|↓262|The Distortionist|GHOST|YOHIOloid|13\.902\.592|34\.908|177\.765|114|0|0|
+|600|↓199|Outburst Dreamer Boys|rerulili|Kagamine Len|11\.819\.426|34\.823|123\.779|457|4\.449|1|
+|601|↓71|Shihatsu to Kafka|n-buna|Hatsune Miku|8\.893\.113|34\.735|79\.762|330|1\.759|-1|
+|602|↓27|Kiss the Villain|40mp|Hatsune Miku|7\.853\.497|34\.675|156\.308|394|2\.861|1|
+|603|↓37|Ageage Again|Mitchie M|Hatsune Miku|8\.049\.537|34\.424|120\.136|468|8\.751|9|
+|604|↓290|Tokugawa Cupnoodle Prohibition|Mitchie M|Cryptonloids|14\.746\.343|34\.175|305\.916|256|9\.290|7|
+|605|↓66|Taisetsu na Hitotachi e|Kasamura Tota|Hatsune Miku|8\.594\.084|33\.727|171\.473|416|8\.699|10|
+|606|↓37|Awaiting Clear Skies|Orangestar|Hatsune Miku|8\.008\.420|33\.555|118\.016|207|4\.192|5|
+|607|↓123|Jama|syudou|Hatsune Miku|9\.793\.028|33\.321|150\.560|335|2\.375|2|
+|608|↓309|Lucky☆Orb|emon|Hatsune Miku|15\.221\.780|33\.089|347\.399|212|13\.442|5|
+|609|↓215|Relationship Scramble|DECO\*27|Hatsune Miku|11\.992\.373|32\.804|181\.468|199|5\.359|-1|
+|610|↓440|Right Now\. I'll Fall In Love\.|HoneyWorks|Hatsune Miku|24\.629\.997|32\.313|159\.175|288|6\.500|0|
+|611|↓156|Beast Dance|WADATAKEAKI|Otomachi Una|10\.463\.220|32\.235|110\.280|285|3\.381|-3|
+|612|↓161|Your Night Sky Patrol|Orangestar|IA|10\.617\.123|31\.972|126\.895|416|4\.418|5|
+|613|↓201|Circus Monster|CircusP|GUMI|11\.518\.233|31\.605|166\.290|387|7\.621|8|
+|614|↓52|Harehare Ya|Hanyuu Maigo|Flower|8\.104\.243|31\.409|182\.315|428|3\.682|1|
+|615|↓43|Let's drop dead|Neru|Kagamine Rin, Kagamine Len|7\.994\.531|31\.231|106\.385|244|2\.683|0|
+|616|↓131|Singularilari|SatapanP|Hatsune Miku|9\.790\.070|30\.702|22\.884|355|931|32|
+|617|↓202|Salamander \(SEKAI ver\.\)|DECO\*27|Hatsune Miku|11\.467\.762|30\.637|183\.861|269|3\.010|-2|
+|618|↓128|Star Night Snow|n-buna, Orangestar|Hatsune Miku|9\.708\.716|30\.445|164\.192|274|5\.253|5|
+|619|↓41|Awake Now \(SEKAI ver\.\)|Yunosuke|Hatsune Miku|7\.748\.336|30\.421|104\.008|149|1\.528|0|
+|620|↓41|Never Lost Word|Jin|Hatsune Miku|7\.743\.397|30\.260|91\.373|184|6\.352|1|
+|621|↓243|Simmering ZEN Girl|rerulili|Hatsune Miku, GUMI|12\.573\.093|29\.754|81\.992|229|2\.495|-3|
+|622|↓52|The Endlessly-Praising Ms\. Haruno Sora|GYARI|Haruno Sora, Tsurumaki Maki|8\.001\.649|29\.571|145\.065|260|10\.425|-31|
+|623|↓321|Redial|kz|Hatsune Miku|15\.159\.968|29\.425|172\.761|300|5\.770|2|
+|624|↓142|Disappearance Addiction \(MARETU ver\.\)|Kairiki Bear, MARETU|Hatsune Miku|9\.848\.151|28\.878|115\.546|249|2\.088|1|
+|625|↓48|SEKAI|DECO\*27, kemu|Hatsune Miku|7\.766\.889|28\.510|132\.382|266|3\.177|1|
+|626|↓78|Mono Poisoner|DECO\*27|Hatsune Miku|8\.453\.617|28\.252|78\.539|304|1\.524|4|
+|627|↓44|Secret Garden|EmpathP|CYBER DIVA, DAINA, DEX|7\.593\.348|28\.075|149\.765|517|10\.763|19|
+|628|↓103|The Real Disappearance of Hatsune Miku|cosMo@bousouP|GUMI|8\.963\.805|27\.347|123\.141|231|2\.522|13|
+|629|↓95|Ai Dee|Mitchie M|Hatsune Miku, Megurine Luka|8\.766\.457|27\.257|125\.239|414|5\.173|3|
+|630|↓112|\!|Kyozou|Uta Utane|9\.269\.136|27\.178|359\.123|252|13\.339|2|
+|631|↓118|Niccori^^ Survey Team Theme|JesusP|Kagamine Rin, Kagamine Len|9\.356\.284|27\.007|166\.496|273|1\.676|0|
+|632|↓78|Lemming Ming|Kairiki Bear|Flower|8\.319\.041|26\.967|105\.168|241|4\.696|0|
+|633|↓84|Konoha's State of the World|Jin|Hatsune Miku, IA|8\.451\.317|26\.693|53\.003|175|2\.397|-2|
+|634|↓159|Reckless Rampage Girl|rerulili|Hatsune Miku, GUMI|10\.003\.757|25\.955|65\.491|174|2\.064|19|
+|635|↓226|Merry Bad End|mafumafu|Hatsune Miku|11\.561\.786|25\.190|183\.908|193|5\.881|-6|
+|636|↓100|Party×Party|Hitoshizuku-P|Cryptonloids|8\.612\.210|25\.176|128\.017|221|1\.715|1|
+|637|↓57|Circles|KIRA|GUMI|7\.698\.324|24\.741|124\.003|261|3\.389|-1|
+|638|↓81|Heart à la mode|DECO\*27|Hatsune Miku|8\.242\.868|23\.494|117\.198|239|2\.478|-1|
+|639|↓79|Mistletoe~The Tree of Reincarnation~|Hitoshizuku-P|Kagamine Rin, Kagamine Len|8\.151\.143|20\.731|115\.537|156|2\.370|2|
+|640|↓497|Lost Time Memory|Jin|IA|27\.025\.649|20\.416|181\.876|297|16\.021|11|
+|641|↓206|Burenai ai de|Mitchie M|Hatsune Miku|11\.088\.509|20\.371|145\.035|184|8\.560|2|
+|642|↓452|Friday's Good Mornings -another story-|HoneyWorks|Hatsune Miku|21\.715\.550|20\.243|129\.464|287|4\.497|1|
+|643|↓282|Stay With Me \(Krys Talk Remix\)|Krys Talk|Oliver|12\.966\.197|19\.655|167\.221|108|7\.294|2|
+|644|↓304|This is, the Happiness and Peace of Mind Committee\.|UtataP|Hatsune Miku|13\.734\.156|19\.563|185\.087|247|10\.405|1|
+|645|↓108|Wind-Up God|kemu|GUMI|8\.589\.274|19\.380|51\.328|146|2\.205|-3|
+|646|↓437|A Solution for Jealousy|HoneyWorks|GUMI|20\.117\.853|19\.146|110\.144|152|5\.112|3|
+|647|↓344|Friday's Good Mornings \(GUMI ver\.\)|HoneyWorks|GUMI|15\.130\.465|17\.412|81\.279|213|2\.071|0|
+|648|↓323|Embarrassment-Hiding Adolescence|HoneyWorks|Kagamine Len|14\.376\.894|16\.814|88\.935|132|3\.258|2|
+|649|↓208|Detained Teacher|HoneyWorks|GUMI|10\.854\.315|15\.194|97\.513|256|3\.267|-5|
+|650|↓26|Idol Warrior|Mitchie M|Hatsune Miku|3\.051\.096|13\.916|51\.350|117|1\.635|2|
+|651|↓287|Tokyo Summer Session|HoneyWorks|GUMI, Flower|12\.865\.096|13\.661|94\.368|179|3\.457|6|
+|652|↓79|Watashi, Idol Sengen|HoneyWorks|Hatsune Miku|7\.941\.953|13\.119|132\.457|196|7\.800|-3|
+|653|↓130|The Current Topic Talked About Just A Bit, God|HoneyWorks|GUMI|9\.085\.164|12\.565|71\.737|113|2\.674|5|
+|654|↓113|Rinne|HACHI|Hatsune Miku|8\.502\.043|12\.165|83\.330|241|2\.807|7|
+|655|↓71|Vocaloids yelling only|GYARI|Hatsune Miku and more|7\.414\.150|9\.369|122\.217|112|8\.484|1|
+|656|↓435|Mean Encounter|HoneyWorks|Hatsune Miku|19\.351\.207|5\.865|113\.326|45|5\.146|-1|
+|657|↓324|I Thought I Hated It|HoneyWorks|Hatsune Miku, GUMI|13\.964\.235|4\.874|118\.590|47|7\.351|-1|
+|658|↓221|A Promise That Doesn't Need Words|HoneyWorks|GUMI|10\.971\.745|4\.454|107\.424|31|3\.680|-2|
+|659|↓488|When I Get Home My Wife Always Pretends to be Dead|HobonichiP|Hatsune Miku|24\.452\.399|1\.780|73\.652|20|5\.290|-3|
+|660|↓75|VOICES \(tilt-six Remix\)|tilt-six|Hatsune Miku|7\.292\.446|858|0|0|0|0|
+|661|↓10|Dame Teto Macaron|Okami Natsuyo|Hatsune Miku, Kasane Teto|249\.123|533|3\.068|3|4\.088|4|
